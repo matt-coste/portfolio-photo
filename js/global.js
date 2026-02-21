@@ -20,15 +20,14 @@
 // SITE CONFIG — Edit this section
 // ══════════════════════════════════════════════════════════════
 const SITE = {
-  name: "Matt C.",
+  name: "Matt COSTE",
 
   // Hero background photo (home page). Set to null to disable.
   heroBg: "assets/main_background.jpg",
 
   socials: [
     { label: "Instagram", url: "https://instagram.com/matt_cste" },
-    { label: "Vsco", url: "https://vsco.co/yourhandle" },
-    { label: "Email", url: "mailto:you@example.com" },
+    { label: "Email", url: "mailto:mc.mattcoste@gmail.com" },
   ],
 
   about: {
