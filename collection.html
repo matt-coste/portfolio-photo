@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Collection — Portfolio</title>
+  <script>
+    (function () {
+      var theme = localStorage.getItem('theme') || 'dark';
+      var lang = localStorage.getItem('lang') || 'en';
+      document.documentElement.setAttribute('data-theme', theme);
+      document.documentElement.setAttribute('lang', lang === 'fr' ? 'fr' : 'en');
+    })();
+  </script>
+  <link rel="stylesheet" href="css/global.css">
+  <link rel="stylesheet" href="css/collection.css">
+</head>
+
+<body class="page-body">
+
+  <header id="site-header"></header>
+
+  <main>
+    <div class="collection-page">
+
+      <div class="col-header">
+        <div class="col-header-left">
+          <div class="col-header-nav">
+            <a class="back-link" href="collections.html" id="col-back" data-i18n="col_back">Collections</a>
+          </div>
+          <div class="label" id="col-series-label" data-i18n="col_label">Series</div>
+          <h1 class="col-title" id="col-title">…</h1>
+          <div class="col-pills" id="col-pills"></div>
+        </div>
+        <div class="col-header-right">
+          <p class="col-description" id="col-description"></p>
+          <div class="col-stats" id="col-stats"></div>
+        </div>
+      </div>
+
+      <div class="sub-tabs-wrap" id="sub-tabs-wrap" style="display:none"></div>
+      <p class="sub-desc" id="sub-desc" style="display:none"></p>
+
+      <div class="col-photos-wrap">
+        <div class="col-photos-grid" id="col-photos-grid"></div>
+      </div>
+
+    </div>
+  </main>
+
+  <footer id="site-footer"></footer>
+
+  <div id="lightbox">
+    <button id="lightbox-close">✕</button>
+    <button id="lightbox-prev">‹</button>
+    <button id="lightbox-next">›</button>
+    <img id="lightbox-img" src="" alt="">
+    <div id="lightbox-bottom">
+      <p id="lightbox-caption"></p>
+      <button id="lightbox-go-btn"></button>
+    </div>
+  </div>
+
+  <script src="js/global.js"></script>
+  <script src="js/manifest.js"></script>
+  <script src="js/collection.js"></script>
+</body>
+
+</html>

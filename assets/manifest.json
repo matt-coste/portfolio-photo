@@ -1,0 +1,49 @@
+{
+  "generated": "2026-02-19T21:44:41.987Z",
+  "collections": [
+    {
+      "id": "San_Francisco_2024",
+      "folder": "San_Francisco_2024",
+      "name": "San Francisco",
+      "date": "October 2024",
+      "location": "San Francisco, CA",
+      "type": "Personal",
+      "trip": true,
+      "description": "A long weekend on the west coast. Fog, bridges, and light that never quite does what you expect.",
+      "covers": [],
+      "images": [],
+      "subcollections": [],
+      "allImages": []
+    },
+    {
+      "id": "Spain_2025",
+      "folder": "Spain_2025",
+      "name": "Spain",
+      "date": "July 2025",
+      "location": "Madrid, Seville, Granada",
+      "type": "Personal",
+      "trip": true,
+      "description": "Three weeks through southern Spain, chasing light in old markets and quiet courtyards. Shot on film and digital, mostly at golden hour.",
+      "covers": [],
+      "images": [],
+      "subcollections": [
+        {
+          "id": "Spain_2025__Animals",
+          "folder": "Animals",
+          "name": "Animals",
+          "description": "Stray cats, pigeons, and the occasional horse. Animals encountered on the road.",
+          "images": []
+        },
+        {
+          "id": "Spain_2025__Buildings",
+          "folder": "Buildings",
+          "name": "Buildings",
+          "description": "Architecture and urban structures encountered across the trip. From Gaudí's impossible geometry to centuries-old Moorish arches.",
+          "images": []
+        }
+      ],
+      "allImages": []
+    }
+  ],
+  "homeFeed": []
+}

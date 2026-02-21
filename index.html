@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfolio</title>
+  <script>
+    (function () {
+      var theme = localStorage.getItem('theme') || 'dark';
+      var lang = localStorage.getItem('lang') || 'en';
+      document.documentElement.setAttribute('data-theme', theme);
+      document.documentElement.setAttribute('lang', lang === 'fr' ? 'fr' : 'en');
+    })();
+  </script>
+  <link rel="stylesheet" href="css/global.css">
+  <link rel="stylesheet" href="css/home.css">
+</head>
+
+<body class="page-body">
+
+  <header id="site-header"></header>
+
+  <main>
+    <!-- ── HERO ─────────────────────────────────────────────── -->
+    <section class="home-hero">
+      <!-- Background photo — populated by home.js from SITE.heroBg -->
+      <div class="home-hero-bg" id="hero-bg"></div>
+
+      <h1 class="home-hero-tagline">
+        <span class="hero-word" data-i18n="hero_line1"></span>&#32;<span class="hero-word accent"
+          data-i18n="hero_line2"></span><br><span class="hero-word" data-i18n="hero_line3"></span>
+      </h1>
+      <p class="home-hero-sub">
+        <span data-i18n="hero_sub">Photography by</span>
+        <span id="hero-name"></span>
+      </p>
+    </section>
+
+    <!-- ── FEED ──────────────────────────────────────────────── -->
+    <section class="feed-section">
+      <div class="feed-header">
+        <span class="label" data-i18n="feed_label">Selected work</span>
+        <span class="feed-count" id="feed-count"></span>
+      </div>
+      <div class="feed-strip" id="feed-strip">
+        <p id="feed-loading" style="color:var(--text-muted);padding:2rem;font-size:13px;letter-spacing:0.08em;"
+          data-i18n="loading">
+          Loading photos…
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <footer id="site-footer"></footer>
+
+  <div id="lightbox">
+    <button id="lightbox-close">✕</button>
+    <button id="lightbox-prev">‹</button>
+    <button id="lightbox-next">›</button>
+    <img id="lightbox-img" src="" alt="">
+    <div id="lightbox-bottom">
+      <p id="lightbox-caption"></p>
+      <button id="lightbox-go-btn"></button>
+    </div>
+  </div>
+
+  <script src="js/global.js"></script>
+  <script src="js/manifest.js"></script>
+  <script src="js/home.js"></script>
+</body>
+
+</html>
