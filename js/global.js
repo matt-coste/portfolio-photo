@@ -226,27 +226,61 @@ function initHeader(activePage) {
   const langLabel = State.lang === 'en' ? 'FR' : 'EN';
 
   header.innerHTML = `
-    <a class="site-logo" href="index.html">${SITE.name}</a>
-    <div class="header-right">
-      <nav>
-        <ul class="site-nav">
-          ${pages.map(p => `
-            <li>
-              <a href="${p.href}"
-                 data-i18n="${p.key}"
-                 ${p.id === activePage ? 'class="active"' : ''}>
-                ${t(p.key)}
-              </a>
-            </li>
-          `).join('')}
-        </ul>
-      </nav>
-      <div class="header-controls">
-        <button class="theme-toggle" id="theme-toggle" title="Toggle theme">${themeIcon}</button>
-        <button class="lang-toggle"  id="lang-toggle">${langLabel}</button>
-      </div>
+  <a class="site-logo" href="index.html">${SITE.name}</a>
+  <div class="header-right">
+    <nav>
+      <ul class="site-nav">
+        ${pages.map(p => `
+          <li>
+            <a href="${p.href}"
+               data-i18n="${p.key}"
+               ${p.id === activePage ? 'class="active"' : ''}>
+              ${t(p.key)}
+            </a>
+          </li>
+        `).join('')}
+      </ul>
+    </nav>
+    <div class="header-controls">
+      <button class="theme-toggle" id="theme-toggle" title="Toggle theme">${themeIcon}</button>
+      <button class="lang-toggle"  id="lang-toggle">${langLabel}</button>
     </div>
-  `;
+    <button class="burger" id="burger" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+`;
+
+  /* Menu mobile — injecté juste après le header dans le DOM */
+  let mobileMenu = document.getElementById('mobile-menu');
+  if (!mobileMenu) {
+    mobileMenu = document.createElement('div');
+    mobileMenu.className = 'mobile-menu';
+    mobileMenu.id = 'mobile-menu';
+    mobileMenu.innerHTML = pages.map(p => `
+    <a href="${p.href}"
+       data-i18n="${p.key}"
+       ${p.id === activePage ? 'class="active"' : ''}>
+      ${t(p.key)}
+    </a>
+  `).join('');
+    header.insertAdjacentElement('afterend', mobileMenu);
+  }
+
+  /* Toggle burger */
+  document.getElementById('burger').addEventListener('click', () => {
+    const burger = document.getElementById('burger');
+    burger.classList.toggle('open');
+    mobileMenu.classList.toggle('open');
+  });
+
+  /* Fermer en cliquant un lien */
+  mobileMenu.querySelectorAll('a').forEach(a => {
+    a.addEventListener('click', () => {
+      document.getElementById('burger').classList.remove('open');
+      mobileMenu.classList.remove('open');
+    });
+  });
 
   document.getElementById('theme-toggle').addEventListener('click', () => State.toggleTheme());
   document.getElementById('lang-toggle').addEventListener('click', () => State.toggleLang());
