@@ -972,7 +972,7 @@ window.MANIFEST = {
       "date": "2025",
       "description": {
         "en": "A trip to the mountains with an university association.",
-        "fr": "Sortie au zoo avec une association universitaire."
+        "fr": "Sortie à la montagne avec une association universitaire."
       },
       "covers": [
         "assets/collections/Saint_Lary~2025/Alone_facing_the_void-Seul_face_au_vide.jpg",
@@ -1538,112 +1538,13 @@ window.MANIFEST = {
   ],
   "homeFeed": [
     {
-      "filename": "Sunny_moment_in_life-Moment_de_vie_ensoleillé.jpg",
-      "src": "assets/collections/Barèges~2025/Sunny_moment_in_life-Moment_de_vie_ensoleillé.jpg",
+      "filename": "Waxing_Gibbous-Lune_Gibbeuse.jpg",
+      "src": "assets/collections/Moon~2025/Waxing_Gibbous-Lune_Gibbeuse.jpg",
       "label": {
-        "en": "Sunny moment in life",
-        "fr": "Moment de vie ensoleillé"
-      },
-      "collectionId": "Barèges~2025"
-    },
-    {
-      "filename": "Rock_on_the_water-Rocher_sur_l'eau.jpg",
-      "src": "assets/collections/Spain-Espagne~2025/San Juan de Gaztelugatxe/Rock_on_the_water-Rocher_sur_l'eau.jpg",
-      "label": {
-        "en": "Rock on the water",
-        "fr": "Rocher sur l'eau"
-      },
-      "collectionId": "Spain-Espagne~2025"
-    },
-    {
-      "filename": "Hôtel_des_Invalides_through_the_gate-Hôtel_des_Invalides_à_travers_la_grille.jpg",
-      "src": "assets/collections/Paris~2024/Hôtel_des_Invalides_through_the_gate-Hôtel_des_Invalides_à_travers_la_grille.jpg",
-      "label": {
-        "en": "Hôtel des Invalides through the gate",
-        "fr": "Hôtel des Invalides à travers la grille"
-      },
-      "collectionId": "Paris~2024"
-    },
-    {
-      "filename": "Third_Quarter-Dernier_quartier.jpg",
-      "src": "assets/collections/Moon~2025/Third_Quarter-Dernier_quartier.jpg",
-      "label": {
-        "en": "Third Quarter",
-        "fr": "Dernier quartier"
+        "en": "Waxing Gibbous",
+        "fr": "Lune Gibbeuse"
       },
       "collectionId": "Moon~2025"
-    },
-    {
-      "filename": "Sky_in_fire-Ciel_en_feu.jpg",
-      "src": "assets/collections/Airplanes-Avions~2025/Sky_in_fire-Ciel_en_feu.jpg",
-      "label": {
-        "en": "Sky in fire",
-        "fr": "Ciel en feu"
-      },
-      "collectionId": "Airplanes-Avions~2025"
-    },
-    {
-      "filename": "Clownfish-Poisson_clown.jpg",
-      "src": "assets/collections/Biarritz~2025/Aquarium/Clownfish-Poisson_clown.jpg",
-      "label": {
-        "en": "Clownfish",
-        "fr": "Poisson clown"
-      },
-      "collectionId": "Biarritz~2025"
-    },
-    {
-      "filename": "Mountainous_landscape_2-Paysage_montagneux_2.jpg",
-      "src": "assets/collections/Saint_Lary~2025/Mountainous_landscape_2-Paysage_montagneux_2.jpg",
-      "label": {
-        "en": "Mountainous landscape 2",
-        "fr": "Paysage montagneux 2"
-      },
-      "collectionId": "Saint_Lary~2025"
-    },
-    {
-      "filename": "Dog_with_different_colored_eyes-Chien_aux_yeux_vairons.jpg",
-      "src": "assets/collections/Barèges~2025/Dog_with_different_colored_eyes-Chien_aux_yeux_vairons.jpg",
-      "label": {
-        "en": "Dog with different colored eyes",
-        "fr": "Chien aux yeux vairons"
-      },
-      "collectionId": "Barèges~2025"
-    },
-    {
-      "filename": "Serval.jpg",
-      "src": "assets/collections/Asson_Zoo-Zoo_d'Asson~2024/Animals-Animaux/Serval.jpg",
-      "label": {
-        "en": "Serval",
-        "fr": "Serval"
-      },
-      "collectionId": "Asson_Zoo-Zoo_d'Asson~2024"
-    },
-    {
-      "filename": "Sheeps-Moutons.jpg",
-      "src": "assets/collections/Barèges~2025/Sheeps-Moutons.jpg",
-      "label": {
-        "en": "Sheeps",
-        "fr": "Moutons"
-      },
-      "collectionId": "Barèges~2025"
-    },
-    {
-      "filename": "Galeries Lafayettes.jpg",
-      "src": "assets/collections/Paris~2024/Galeries Lafayettes.jpg",
-      "label": {
-        "en": "Galeries Lafayettes",
-        "fr": "Galeries Lafayettes"
-      },
-      "collectionId": "Paris~2024"
-    },
-    {
-      "filename": "Red_panda-Panda_roux.jpg",
-      "src": "assets/collections/Asson_Zoo-Zoo_d'Asson~2024/Animals-Animaux/Red_panda-Panda_roux.jpg",
-      "label": {
-        "en": "Red panda",
-        "fr": "Panda roux"
-      },
-      "collectionId": "Asson_Zoo-Zoo_d'Asson~2024"
     },
     {
       "filename": "Two_friends_on_the_beach-Deux_amis_sur_la_plage.jpg",
@@ -1655,49 +1556,13 @@ window.MANIFEST = {
       "collectionId": "Spain-Espagne~2025"
     },
     {
-      "filename": "Jellyfish-Méduse.jpg",
-      "src": "assets/collections/Biarritz~2025/Aquarium/Jellyfish-Méduse.jpg",
+      "filename": "Mountainous_landscape-Paysage_montagneux.jpg",
+      "src": "assets/collections/Saint_Lary~2025/Mountainous_landscape-Paysage_montagneux.jpg",
       "label": {
-        "en": "Jellyfish",
-        "fr": "Méduse"
+        "en": "Mountainous landscape",
+        "fr": "Paysage montagneux"
       },
-      "collectionId": "Biarritz~2025"
-    },
-    {
-      "filename": "A320.jpg",
-      "src": "assets/collections/Airplanes-Avions~2025/A320.jpg",
-      "label": {
-        "en": "A320",
-        "fr": "A320"
-      },
-      "collectionId": "Airplanes-Avions~2025"
-    },
-    {
-      "filename": "Beluga.jpg",
-      "src": "assets/collections/Airplanes-Avions~2025/Beluga.jpg",
-      "label": {
-        "en": "Beluga",
-        "fr": "Beluga"
-      },
-      "collectionId": "Airplanes-Avions~2025"
-    },
-    {
-      "filename": "Vintage_Eiffel_Tower.jpg",
-      "src": "assets/collections/Paris~2024/Eiffel_Tower/Vintage_Eiffel_Tower.jpg",
-      "label": {
-        "en": "Vintage Eiffel Tower",
-        "fr": "Vintage Eiffel Tower"
-      },
-      "collectionId": "Paris~2024"
-    },
-    {
-      "filename": "Waxing_Gibbous-Lune_Gibbeuse.jpg",
-      "src": "assets/collections/Moon~2025/Waxing_Gibbous-Lune_Gibbeuse.jpg",
-      "label": {
-        "en": "Waxing Gibbous",
-        "fr": "Lune Gibbeuse"
-      },
-      "collectionId": "Moon~2025"
+      "collectionId": "Saint_Lary~2025"
     },
     {
       "filename": "Mountainous_landscape_3-Paysage_montagneux_3.jpg",
@@ -1709,6 +1574,24 @@ window.MANIFEST = {
       "collectionId": "Saint_Lary~2025"
     },
     {
+      "filename": "Sky_in_fire-Ciel_en_feu.jpg",
+      "src": "assets/collections/Airplanes-Avions~2025/Sky_in_fire-Ciel_en_feu.jpg",
+      "label": {
+        "en": "Sky in fire",
+        "fr": "Ciel en feu"
+      },
+      "collectionId": "Airplanes-Avions~2025"
+    },
+    {
+      "filename": "Sunset-Coucher_de_soleil.jpg",
+      "src": "assets/collections/Spain-Espagne~2025/Zarautz/Sunset-Coucher_de_soleil.jpg",
+      "label": {
+        "en": "Sunset",
+        "fr": "Coucher de soleil"
+      },
+      "collectionId": "Spain-Espagne~2025"
+    },
+    {
       "filename": "Nicobar_pigeon-Pigeon_Nicobar.jpg",
       "src": "assets/collections/Asson_Zoo-Zoo_d'Asson~2024/Animals-Animaux/Nicobar_pigeon-Pigeon_Nicobar.jpg",
       "label": {
@@ -1716,33 +1599,6 @@ window.MANIFEST = {
         "fr": "Pigeon Nicobar"
       },
       "collectionId": "Asson_Zoo-Zoo_d'Asson~2024"
-    },
-    {
-      "filename": "Dog_with_different_colored_eyes_2-Chien_aux_yeux_vairons_2.jpg",
-      "src": "assets/collections/Barèges~2025/Dog_with_different_colored_eyes_2-Chien_aux_yeux_vairons_2.jpg",
-      "label": {
-        "en": "Dog with different colored eyes 2",
-        "fr": "Chien aux yeux vairons 2"
-      },
-      "collectionId": "Barèges~2025"
-    },
-    {
-      "filename": "The_marine_arc-L'arche_marine.jpg",
-      "src": "assets/collections/Biarritz~2025/Walk_in_the_city-Balade_en_ville/The_marine_arc-L'arche_marine.jpg",
-      "label": {
-        "en": "The marine arc",
-        "fr": "L'arche marine"
-      },
-      "collectionId": "Biarritz~2025"
-    },
-    {
-      "filename": "Solitary_fir_tree-Sapin_solitaire.jpg",
-      "src": "assets/collections/Saint_Lary~2025/Solitary_fir_tree-Sapin_solitaire.jpg",
-      "label": {
-        "en": "Solitary fir tree",
-        "fr": "Sapin solitaire"
-      },
-      "collectionId": "Saint_Lary~2025"
     },
     {
       "filename": "View_of_Bentalde-Vue_sur_Bentalde.jpg",
@@ -1754,13 +1610,139 @@ window.MANIFEST = {
       "collectionId": "Spain-Espagne~2025"
     },
     {
-      "filename": "Yellow_and_blueback_Fusilier-Fusilier_à_dos_jaune_et_bleu.jpg",
-      "src": "assets/collections/Biarritz~2025/Aquarium/Yellow_and_blueback_Fusilier-Fusilier_à_dos_jaune_et_bleu.jpg",
+      "filename": "Grey_otter-Loutre_cendrée.jpg",
+      "src": "assets/collections/Asson_Zoo-Zoo_d'Asson~2024/Animals-Animaux/Grey_otter-Loutre_cendrée.jpg",
       "label": {
-        "en": "Yellow and blueback Fusilier",
-        "fr": "Fusilier à dos jaune et bleu"
+        "en": "Grey otter",
+        "fr": "Loutre cendrée"
+      },
+      "collectionId": "Asson_Zoo-Zoo_d'Asson~2024"
+    },
+    {
+      "filename": "A320.jpg",
+      "src": "assets/collections/Airplanes-Avions~2025/A320.jpg",
+      "label": {
+        "en": "A320",
+        "fr": "A320"
+      },
+      "collectionId": "Airplanes-Avions~2025"
+    },
+    {
+      "filename": "Saint_Eugenie_Church-Église_Saint_Eugénie.jpg",
+      "src": "assets/collections/Biarritz~2025/Walk_in_the_city-Balade_en_ville/Saint_Eugenie_Church-Église_Saint_Eugénie.jpg",
+      "label": {
+        "en": "Saint Eugenie Church",
+        "fr": "Église Saint Eugénie"
       },
       "collectionId": "Biarritz~2025"
+    },
+    {
+      "filename": "Yellow_coral_Goby-Gobie_corail_jaune.jpg",
+      "src": "assets/collections/Biarritz~2025/Aquarium/Yellow_coral_Goby-Gobie_corail_jaune.jpg",
+      "label": {
+        "en": "Yellow coral Goby",
+        "fr": "Gobie corail jaune"
+      },
+      "collectionId": "Biarritz~2025"
+    },
+    {
+      "filename": "Red_flowers-Fleurs_rouges.jpg",
+      "src": "assets/collections/Barèges~2025/Red_flowers-Fleurs_rouges.jpg",
+      "label": {
+        "en": "Red flowers",
+        "fr": "Fleurs rouges"
+      },
+      "collectionId": "Barèges~2025"
+    },
+    {
+      "filename": "Mountainous_landscape_5-Paysage_montagneux_5.jpg",
+      "src": "assets/collections/Saint_Lary~2025/Mountainous_landscape_5-Paysage_montagneux_5.jpg",
+      "label": {
+        "en": "Mountainous landscape 5",
+        "fr": "Paysage montagneux 5"
+      },
+      "collectionId": "Saint_Lary~2025"
+    },
+    {
+      "filename": "Galeries Lafayettes.jpg",
+      "src": "assets/collections/Paris~2024/Galeries Lafayettes.jpg",
+      "label": {
+        "en": "Galeries Lafayettes",
+        "fr": "Galeries Lafayettes"
+      },
+      "collectionId": "Paris~2024"
+    },
+    {
+      "filename": "Longfin_Bannerfish-Poisson_Cocher_commun.jpg",
+      "src": "assets/collections/Biarritz~2025/Aquarium/Longfin_Bannerfish-Poisson_Cocher_commun.jpg",
+      "label": {
+        "en": "Longfin Bannerfish",
+        "fr": "Poisson Cocher commun"
+      },
+      "collectionId": "Biarritz~2025"
+    },
+    {
+      "filename": "Daubenton's_Bittern-Hocco_de_Daubenton.jpg",
+      "src": "assets/collections/Asson_Zoo-Zoo_d'Asson~2024/Animals-Animaux/Daubenton's_Bittern-Hocco_de_Daubenton.jpg",
+      "label": {
+        "en": "Daubenton's Bittern",
+        "fr": "Hocco de Daubenton"
+      },
+      "collectionId": "Asson_Zoo-Zoo_d'Asson~2024"
+    },
+    {
+      "filename": "Beluga.jpg",
+      "src": "assets/collections/Airplanes-Avions~2025/Beluga.jpg",
+      "label": {
+        "en": "Beluga",
+        "fr": "Beluga"
+      },
+      "collectionId": "Airplanes-Avions~2025"
+    },
+    {
+      "filename": "Sheeps-Moutons.jpg",
+      "src": "assets/collections/Barèges~2025/Sheeps-Moutons.jpg",
+      "label": {
+        "en": "Sheeps",
+        "fr": "Moutons"
+      },
+      "collectionId": "Barèges~2025"
+    },
+    {
+      "filename": "Jellyfish-Méduse.jpg",
+      "src": "assets/collections/Biarritz~2025/Aquarium/Jellyfish-Méduse.jpg",
+      "label": {
+        "en": "Jellyfish",
+        "fr": "Méduse"
+      },
+      "collectionId": "Biarritz~2025"
+    },
+    {
+      "filename": "Vintage_Eiffel_Tower.jpg",
+      "src": "assets/collections/Paris~2024/Eiffel_Tower/Vintage_Eiffel_Tower.jpg",
+      "label": {
+        "en": "Vintage Eiffel Tower",
+        "fr": "Vintage Eiffel Tower"
+      },
+      "collectionId": "Paris~2024"
+    },
+    {
+      "filename": "Dog_with_different_colored_eyes_2-Chien_aux_yeux_vairons_2.jpg",
+      "src": "assets/collections/Barèges~2025/Dog_with_different_colored_eyes_2-Chien_aux_yeux_vairons_2.jpg",
+      "label": {
+        "en": "Dog with different colored eyes 2",
+        "fr": "Chien aux yeux vairons 2"
+      },
+      "collectionId": "Barèges~2025"
+    },
+    {
+      "filename": "Ocelot.jpg",
+      "src": "assets/collections/Asson_Zoo-Zoo_d'Asson~2024/Animals-Animaux/Ocelot.jpg",
+      "label": {
+        "en": "Ocelot",
+        "fr": "Ocelot"
+      },
+      "collectionId": "Asson_Zoo-Zoo_d'Asson~2024"
     },
     {
       "filename": "Parking_lot_covered_in_snow-Parking_enneigé.jpg",
@@ -1781,22 +1763,40 @@ window.MANIFEST = {
       "collectionId": "Paris~2024"
     },
     {
-      "filename": "Horizon_over_Bentalde-Horizon_sur_Bentalde.jpg",
-      "src": "assets/collections/Spain-Espagne~2025/San Juan de Gaztelugatxe/Horizon_over_Bentalde-Horizon_sur_Bentalde.jpg",
+      "filename": "Third_Quarter-Dernier_quartier.jpg",
+      "src": "assets/collections/Moon~2025/Third_Quarter-Dernier_quartier.jpg",
       "label": {
-        "en": "Horizon over Bentalde",
-        "fr": "Horizon sur Bentalde"
+        "en": "Third Quarter",
+        "fr": "Dernier quartier"
       },
-      "collectionId": "Spain-Espagne~2025"
+      "collectionId": "Moon~2025"
     },
     {
-      "filename": "Flamingo-Flamand_rose.jpg",
-      "src": "assets/collections/Asson_Zoo-Zoo_d'Asson~2024/Animals-Animaux/Flamingo-Flamand_rose.jpg",
+      "filename": "Dog_with_different_colored_eyes-Chien_aux_yeux_vairons.jpg",
+      "src": "assets/collections/Barèges~2025/Dog_with_different_colored_eyes-Chien_aux_yeux_vairons.jpg",
       "label": {
-        "en": "Flamingo",
-        "fr": "Flamand rose"
+        "en": "Dog with different colored eyes",
+        "fr": "Chien aux yeux vairons"
       },
-      "collectionId": "Asson_Zoo-Zoo_d'Asson~2024"
+      "collectionId": "Barèges~2025"
+    },
+    {
+      "filename": "Eiffel_Tower_through_the_leaves-Tour_Eiffel_à_travers_les_feuilles.jpg",
+      "src": "assets/collections/Paris~2024/Eiffel_Tower/Eiffel_Tower_through_the_leaves-Tour_Eiffel_à_travers_les_feuilles.jpg",
+      "label": {
+        "en": "Eiffel Tower through the leaves",
+        "fr": "Tour Eiffel à travers les feuilles"
+      },
+      "collectionId": "Paris~2024"
+    },
+    {
+      "filename": "The_horizon_of_San_Sebastián-L'horizon_de_San_Sebastián.jpg",
+      "src": "assets/collections/Spain-Espagne~2025/San Sebastián/The_horizon_of_San_Sebastián-L'horizon_de_San_Sebastián.jpg",
+      "label": {
+        "en": "The horizon of San Sebastián",
+        "fr": "L'horizon de San Sebastián"
+      },
+      "collectionId": "Spain-Espagne~2025"
     }
   ]
 };
