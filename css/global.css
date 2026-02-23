@@ -118,6 +118,32 @@ main {
 /* ═══════════════════════════════════════════════════════════
    HEADER
    ═══════════════════════════════════════════════════════════ */
+.header-left {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex: 0 0 auto;
+}
+
+.home-back-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius);
+  color: var(--text-muted);
+  transition: color .2s, border-color .2s, background .2s;
+  flex-shrink: 0;
+}
+
+.home-back-btn:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+  background: var(--accent-dim);
+}
+
 #site-header {
   position: fixed;
   top: 0;
@@ -145,7 +171,6 @@ main {
   text-transform: uppercase;
   color: var(--text);
   transition: color .2s;
-  flex: 0 0 auto;
 }
 
 .site-logo:hover {
