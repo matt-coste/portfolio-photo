@@ -759,6 +759,230 @@ window.MANIFEST = {
       ]
     },
     {
+      "id": "Demonstrations-Manifestations~2026",
+      "folderName": "Demonstrations-Manifestations~2026",
+      "title": {
+        "en": "Demonstrations",
+        "fr": "Manifestations"
+      },
+      "date": "2026",
+      "description": {
+        "en": "Photos from the October 17, 2026, demonstration in Toulouse.",
+        "fr": "Photos de la manifestation du 17 Octobre 2026 à Toulouse."
+      },
+      "covers": [
+        "assets/collections/Demonstrations-Manifestations~2026/A_glimpse_of_hope-Un_regard_d'espoir.jpg",
+        "assets/collections/Demonstrations-Manifestations~2026/A_keffiyeh_around_the_neck-Un_keffieh_autour_du_cou.jpg",
+        "assets/collections/Demonstrations-Manifestations~2026/A_message_of_hope-Un_message_d'espoir.jpg",
+        "assets/collections/Demonstrations-Manifestations~2026/CRS.jpg",
+        "assets/collections/Demonstrations-Manifestations~2026/Chaos.jpg",
+        "assets/collections/Demonstrations-Manifestations~2026/Cloud_of_smoke-Nuage_de_fumée.jpg",
+        "assets/collections/Demonstrations-Manifestations~2026/Fighting_for_her_dreams-Combat_pour_ses_rêves.jpg",
+        "assets/collections/Demonstrations-Manifestations~2026/Light_in_the_darkness-Lumière_dans_l'obscurité.jpg",
+        "assets/collections/Demonstrations-Manifestations~2026/New_Caledonia-Nouvelle_Calédonie.jpg",
+        "assets/collections/Demonstrations-Manifestations~2026/Protest_demands-Revendications.jpg",
+        "assets/collections/Demonstrations-Manifestations~2026/The_Rebel_Alliance-L'Alliance_Rebelle.jpg",
+        "assets/collections/Demonstrations-Manifestations~2026/The_hope-L'espoir.jpg"
+      ],
+      "photos": [
+        {
+          "filename": "A_glimpse_of_hope-Un_regard_d'espoir.jpg",
+          "src": "assets/collections/Demonstrations-Manifestations~2026/A_glimpse_of_hope-Un_regard_d'espoir.jpg",
+          "label": {
+            "en": "A glimpse of hope",
+            "fr": "Un regard d'espoir"
+          }
+        },
+        {
+          "filename": "A_keffiyeh_around_the_neck-Un_keffieh_autour_du_cou.jpg",
+          "src": "assets/collections/Demonstrations-Manifestations~2026/A_keffiyeh_around_the_neck-Un_keffieh_autour_du_cou.jpg",
+          "label": {
+            "en": "A keffiyeh around the neck",
+            "fr": "Un keffieh autour du cou"
+          }
+        },
+        {
+          "filename": "A_message_of_hope-Un_message_d'espoir.jpg",
+          "src": "assets/collections/Demonstrations-Manifestations~2026/A_message_of_hope-Un_message_d'espoir.jpg",
+          "label": {
+            "en": "A message of hope",
+            "fr": "Un message d'espoir"
+          }
+        },
+        {
+          "filename": "CRS.jpg",
+          "src": "assets/collections/Demonstrations-Manifestations~2026/CRS.jpg",
+          "label": {
+            "en": "CRS",
+            "fr": "CRS"
+          }
+        },
+        {
+          "filename": "Chaos.jpg",
+          "src": "assets/collections/Demonstrations-Manifestations~2026/Chaos.jpg",
+          "label": {
+            "en": "Chaos",
+            "fr": "Chaos"
+          }
+        },
+        {
+          "filename": "Cloud_of_smoke-Nuage_de_fumée.jpg",
+          "src": "assets/collections/Demonstrations-Manifestations~2026/Cloud_of_smoke-Nuage_de_fumée.jpg",
+          "label": {
+            "en": "Cloud of smoke",
+            "fr": "Nuage de fumée"
+          }
+        },
+        {
+          "filename": "Fighting_for_her_dreams-Combat_pour_ses_rêves.jpg",
+          "src": "assets/collections/Demonstrations-Manifestations~2026/Fighting_for_her_dreams-Combat_pour_ses_rêves.jpg",
+          "label": {
+            "en": "Fighting for her dreams",
+            "fr": "Combat pour ses rêves"
+          }
+        },
+        {
+          "filename": "Light_in_the_darkness-Lumière_dans_l'obscurité.jpg",
+          "src": "assets/collections/Demonstrations-Manifestations~2026/Light_in_the_darkness-Lumière_dans_l'obscurité.jpg",
+          "label": {
+            "en": "Light in the darkness",
+            "fr": "Lumière dans l'obscurité"
+          }
+        },
+        {
+          "filename": "New_Caledonia-Nouvelle_Calédonie.jpg",
+          "src": "assets/collections/Demonstrations-Manifestations~2026/New_Caledonia-Nouvelle_Calédonie.jpg",
+          "label": {
+            "en": "New Caledonia",
+            "fr": "Nouvelle Calédonie"
+          }
+        },
+        {
+          "filename": "Protest_demands-Revendications.jpg",
+          "src": "assets/collections/Demonstrations-Manifestations~2026/Protest_demands-Revendications.jpg",
+          "label": {
+            "en": "Protest demands",
+            "fr": "Revendications"
+          }
+        },
+        {
+          "filename": "The_Rebel_Alliance-L'Alliance_Rebelle.jpg",
+          "src": "assets/collections/Demonstrations-Manifestations~2026/The_Rebel_Alliance-L'Alliance_Rebelle.jpg",
+          "label": {
+            "en": "The Rebel Alliance",
+            "fr": "L'Alliance Rebelle"
+          }
+        },
+        {
+          "filename": "The_hope-L'espoir.jpg",
+          "src": "assets/collections/Demonstrations-Manifestations~2026/The_hope-L'espoir.jpg",
+          "label": {
+            "en": "The hope",
+            "fr": "L'espoir"
+          }
+        }
+      ],
+      "subcollections": [],
+      "allPhotos": [
+        {
+          "filename": "A_glimpse_of_hope-Un_regard_d'espoir.jpg",
+          "src": "assets/collections/Demonstrations-Manifestations~2026/A_glimpse_of_hope-Un_regard_d'espoir.jpg",
+          "label": {
+            "en": "A glimpse of hope",
+            "fr": "Un regard d'espoir"
+          }
+        },
+        {
+          "filename": "A_keffiyeh_around_the_neck-Un_keffieh_autour_du_cou.jpg",
+          "src": "assets/collections/Demonstrations-Manifestations~2026/A_keffiyeh_around_the_neck-Un_keffieh_autour_du_cou.jpg",
+          "label": {
+            "en": "A keffiyeh around the neck",
+            "fr": "Un keffieh autour du cou"
+          }
+        },
+        {
+          "filename": "A_message_of_hope-Un_message_d'espoir.jpg",
+          "src": "assets/collections/Demonstrations-Manifestations~2026/A_message_of_hope-Un_message_d'espoir.jpg",
+          "label": {
+            "en": "A message of hope",
+            "fr": "Un message d'espoir"
+          }
+        },
+        {
+          "filename": "CRS.jpg",
+          "src": "assets/collections/Demonstrations-Manifestations~2026/CRS.jpg",
+          "label": {
+            "en": "CRS",
+            "fr": "CRS"
+          }
+        },
+        {
+          "filename": "Chaos.jpg",
+          "src": "assets/collections/Demonstrations-Manifestations~2026/Chaos.jpg",
+          "label": {
+            "en": "Chaos",
+            "fr": "Chaos"
+          }
+        },
+        {
+          "filename": "Cloud_of_smoke-Nuage_de_fumée.jpg",
+          "src": "assets/collections/Demonstrations-Manifestations~2026/Cloud_of_smoke-Nuage_de_fumée.jpg",
+          "label": {
+            "en": "Cloud of smoke",
+            "fr": "Nuage de fumée"
+          }
+        },
+        {
+          "filename": "Fighting_for_her_dreams-Combat_pour_ses_rêves.jpg",
+          "src": "assets/collections/Demonstrations-Manifestations~2026/Fighting_for_her_dreams-Combat_pour_ses_rêves.jpg",
+          "label": {
+            "en": "Fighting for her dreams",
+            "fr": "Combat pour ses rêves"
+          }
+        },
+        {
+          "filename": "Light_in_the_darkness-Lumière_dans_l'obscurité.jpg",
+          "src": "assets/collections/Demonstrations-Manifestations~2026/Light_in_the_darkness-Lumière_dans_l'obscurité.jpg",
+          "label": {
+            "en": "Light in the darkness",
+            "fr": "Lumière dans l'obscurité"
+          }
+        },
+        {
+          "filename": "New_Caledonia-Nouvelle_Calédonie.jpg",
+          "src": "assets/collections/Demonstrations-Manifestations~2026/New_Caledonia-Nouvelle_Calédonie.jpg",
+          "label": {
+            "en": "New Caledonia",
+            "fr": "Nouvelle Calédonie"
+          }
+        },
+        {
+          "filename": "Protest_demands-Revendications.jpg",
+          "src": "assets/collections/Demonstrations-Manifestations~2026/Protest_demands-Revendications.jpg",
+          "label": {
+            "en": "Protest demands",
+            "fr": "Revendications"
+          }
+        },
+        {
+          "filename": "The_Rebel_Alliance-L'Alliance_Rebelle.jpg",
+          "src": "assets/collections/Demonstrations-Manifestations~2026/The_Rebel_Alliance-L'Alliance_Rebelle.jpg",
+          "label": {
+            "en": "The Rebel Alliance",
+            "fr": "L'Alliance Rebelle"
+          }
+        },
+        {
+          "filename": "The_hope-L'espoir.jpg",
+          "src": "assets/collections/Demonstrations-Manifestations~2026/The_hope-L'espoir.jpg",
+          "label": {
+            "en": "The hope",
+            "fr": "L'espoir"
+          }
+        }
+      ]
+    },
+    {
       "id": "Moon~2025",
       "folderName": "Moon~2025",
       "title": {
@@ -1538,157 +1762,22 @@ window.MANIFEST = {
   ],
   "homeFeed": [
     {
-      "filename": "Waxing_Gibbous-Lune_Gibbeuse.jpg",
-      "src": "assets/collections/Moon~2025/Waxing_Gibbous-Lune_Gibbeuse.jpg",
+      "filename": "White_cheeked_Gibon-Gibbon_à_favoris_blancs.jpg",
+      "src": "assets/collections/Asson_Zoo-Zoo_d'Asson~2024/Animals-Animaux/White_cheeked_Gibon-Gibbon_à_favoris_blancs.jpg",
       "label": {
-        "en": "Waxing Gibbous",
-        "fr": "Lune Gibbeuse"
-      },
-      "collectionId": "Moon~2025"
-    },
-    {
-      "filename": "Two_friends_on_the_beach-Deux_amis_sur_la_plage.jpg",
-      "src": "assets/collections/Spain-Espagne~2025/Zarautz/Two_friends_on_the_beach-Deux_amis_sur_la_plage.jpg",
-      "label": {
-        "en": "Two friends on the beach",
-        "fr": "Deux amis sur la plage"
-      },
-      "collectionId": "Spain-Espagne~2025"
-    },
-    {
-      "filename": "Mountainous_landscape-Paysage_montagneux.jpg",
-      "src": "assets/collections/Saint_Lary~2025/Mountainous_landscape-Paysage_montagneux.jpg",
-      "label": {
-        "en": "Mountainous landscape",
-        "fr": "Paysage montagneux"
-      },
-      "collectionId": "Saint_Lary~2025"
-    },
-    {
-      "filename": "Mountainous_landscape_3-Paysage_montagneux_3.jpg",
-      "src": "assets/collections/Saint_Lary~2025/Mountainous_landscape_3-Paysage_montagneux_3.jpg",
-      "label": {
-        "en": "Mountainous landscape 3",
-        "fr": "Paysage montagneux 3"
-      },
-      "collectionId": "Saint_Lary~2025"
-    },
-    {
-      "filename": "Sky_in_fire-Ciel_en_feu.jpg",
-      "src": "assets/collections/Airplanes-Avions~2025/Sky_in_fire-Ciel_en_feu.jpg",
-      "label": {
-        "en": "Sky in fire",
-        "fr": "Ciel en feu"
-      },
-      "collectionId": "Airplanes-Avions~2025"
-    },
-    {
-      "filename": "Sunset-Coucher_de_soleil.jpg",
-      "src": "assets/collections/Spain-Espagne~2025/Zarautz/Sunset-Coucher_de_soleil.jpg",
-      "label": {
-        "en": "Sunset",
-        "fr": "Coucher de soleil"
-      },
-      "collectionId": "Spain-Espagne~2025"
-    },
-    {
-      "filename": "Nicobar_pigeon-Pigeon_Nicobar.jpg",
-      "src": "assets/collections/Asson_Zoo-Zoo_d'Asson~2024/Animals-Animaux/Nicobar_pigeon-Pigeon_Nicobar.jpg",
-      "label": {
-        "en": "Nicobar pigeon",
-        "fr": "Pigeon Nicobar"
+        "en": "White cheeked Gibon",
+        "fr": "Gibbon à favoris blancs"
       },
       "collectionId": "Asson_Zoo-Zoo_d'Asson~2024"
     },
     {
-      "filename": "View_of_Bentalde-Vue_sur_Bentalde.jpg",
-      "src": "assets/collections/Spain-Espagne~2025/San Juan de Gaztelugatxe/View_of_Bentalde-Vue_sur_Bentalde.jpg",
+      "filename": "Protest_demands-Revendications.jpg",
+      "src": "assets/collections/Demonstrations-Manifestations~2026/Protest_demands-Revendications.jpg",
       "label": {
-        "en": "View of Bentalde",
-        "fr": "Vue sur Bentalde"
+        "en": "Protest demands",
+        "fr": "Revendications"
       },
-      "collectionId": "Spain-Espagne~2025"
-    },
-    {
-      "filename": "Grey_otter-Loutre_cendrée.jpg",
-      "src": "assets/collections/Asson_Zoo-Zoo_d'Asson~2024/Animals-Animaux/Grey_otter-Loutre_cendrée.jpg",
-      "label": {
-        "en": "Grey otter",
-        "fr": "Loutre cendrée"
-      },
-      "collectionId": "Asson_Zoo-Zoo_d'Asson~2024"
-    },
-    {
-      "filename": "A320.jpg",
-      "src": "assets/collections/Airplanes-Avions~2025/A320.jpg",
-      "label": {
-        "en": "A320",
-        "fr": "A320"
-      },
-      "collectionId": "Airplanes-Avions~2025"
-    },
-    {
-      "filename": "Saint_Eugenie_Church-Église_Saint_Eugénie.jpg",
-      "src": "assets/collections/Biarritz~2025/Walk_in_the_city-Balade_en_ville/Saint_Eugenie_Church-Église_Saint_Eugénie.jpg",
-      "label": {
-        "en": "Saint Eugenie Church",
-        "fr": "Église Saint Eugénie"
-      },
-      "collectionId": "Biarritz~2025"
-    },
-    {
-      "filename": "Yellow_coral_Goby-Gobie_corail_jaune.jpg",
-      "src": "assets/collections/Biarritz~2025/Aquarium/Yellow_coral_Goby-Gobie_corail_jaune.jpg",
-      "label": {
-        "en": "Yellow coral Goby",
-        "fr": "Gobie corail jaune"
-      },
-      "collectionId": "Biarritz~2025"
-    },
-    {
-      "filename": "Red_flowers-Fleurs_rouges.jpg",
-      "src": "assets/collections/Barèges~2025/Red_flowers-Fleurs_rouges.jpg",
-      "label": {
-        "en": "Red flowers",
-        "fr": "Fleurs rouges"
-      },
-      "collectionId": "Barèges~2025"
-    },
-    {
-      "filename": "Mountainous_landscape_5-Paysage_montagneux_5.jpg",
-      "src": "assets/collections/Saint_Lary~2025/Mountainous_landscape_5-Paysage_montagneux_5.jpg",
-      "label": {
-        "en": "Mountainous landscape 5",
-        "fr": "Paysage montagneux 5"
-      },
-      "collectionId": "Saint_Lary~2025"
-    },
-    {
-      "filename": "Galeries Lafayettes.jpg",
-      "src": "assets/collections/Paris~2024/Galeries Lafayettes.jpg",
-      "label": {
-        "en": "Galeries Lafayettes",
-        "fr": "Galeries Lafayettes"
-      },
-      "collectionId": "Paris~2024"
-    },
-    {
-      "filename": "Longfin_Bannerfish-Poisson_Cocher_commun.jpg",
-      "src": "assets/collections/Biarritz~2025/Aquarium/Longfin_Bannerfish-Poisson_Cocher_commun.jpg",
-      "label": {
-        "en": "Longfin Bannerfish",
-        "fr": "Poisson Cocher commun"
-      },
-      "collectionId": "Biarritz~2025"
-    },
-    {
-      "filename": "Daubenton's_Bittern-Hocco_de_Daubenton.jpg",
-      "src": "assets/collections/Asson_Zoo-Zoo_d'Asson~2024/Animals-Animaux/Daubenton's_Bittern-Hocco_de_Daubenton.jpg",
-      "label": {
-        "en": "Daubenton's Bittern",
-        "fr": "Hocco de Daubenton"
-      },
-      "collectionId": "Asson_Zoo-Zoo_d'Asson~2024"
+      "collectionId": "Demonstrations-Manifestations~2026"
     },
     {
       "filename": "Beluga.jpg",
@@ -1700,65 +1789,11 @@ window.MANIFEST = {
       "collectionId": "Airplanes-Avions~2025"
     },
     {
-      "filename": "Sheeps-Moutons.jpg",
-      "src": "assets/collections/Barèges~2025/Sheeps-Moutons.jpg",
+      "filename": "Hôtel_des_Invalides_through_the_gate-Hôtel_des_Invalides_à_travers_la_grille.jpg",
+      "src": "assets/collections/Paris~2024/Hôtel_des_Invalides_through_the_gate-Hôtel_des_Invalides_à_travers_la_grille.jpg",
       "label": {
-        "en": "Sheeps",
-        "fr": "Moutons"
-      },
-      "collectionId": "Barèges~2025"
-    },
-    {
-      "filename": "Jellyfish-Méduse.jpg",
-      "src": "assets/collections/Biarritz~2025/Aquarium/Jellyfish-Méduse.jpg",
-      "label": {
-        "en": "Jellyfish",
-        "fr": "Méduse"
-      },
-      "collectionId": "Biarritz~2025"
-    },
-    {
-      "filename": "Vintage_Eiffel_Tower.jpg",
-      "src": "assets/collections/Paris~2024/Eiffel_Tower/Vintage_Eiffel_Tower.jpg",
-      "label": {
-        "en": "Vintage Eiffel Tower",
-        "fr": "Vintage Eiffel Tower"
-      },
-      "collectionId": "Paris~2024"
-    },
-    {
-      "filename": "Dog_with_different_colored_eyes_2-Chien_aux_yeux_vairons_2.jpg",
-      "src": "assets/collections/Barèges~2025/Dog_with_different_colored_eyes_2-Chien_aux_yeux_vairons_2.jpg",
-      "label": {
-        "en": "Dog with different colored eyes 2",
-        "fr": "Chien aux yeux vairons 2"
-      },
-      "collectionId": "Barèges~2025"
-    },
-    {
-      "filename": "Ocelot.jpg",
-      "src": "assets/collections/Asson_Zoo-Zoo_d'Asson~2024/Animals-Animaux/Ocelot.jpg",
-      "label": {
-        "en": "Ocelot",
-        "fr": "Ocelot"
-      },
-      "collectionId": "Asson_Zoo-Zoo_d'Asson~2024"
-    },
-    {
-      "filename": "Parking_lot_covered_in_snow-Parking_enneigé.jpg",
-      "src": "assets/collections/Saint_Lary~2025/Parking_lot_covered_in_snow-Parking_enneigé.jpg",
-      "label": {
-        "en": "Parking lot covered in snow",
-        "fr": "Parking enneigé"
-      },
-      "collectionId": "Saint_Lary~2025"
-    },
-    {
-      "filename": "At_the_foot_of_the_Eiffel_Tower-Aux_pieds_de_la_Tour_Eiffel.jpg",
-      "src": "assets/collections/Paris~2024/Eiffel_Tower/At_the_foot_of_the_Eiffel_Tower-Aux_pieds_de_la_Tour_Eiffel.jpg",
-      "label": {
-        "en": "At the foot of the Eiffel Tower",
-        "fr": "Aux pieds de la Tour Eiffel"
+        "en": "Hôtel des Invalides through the gate",
+        "fr": "Hôtel des Invalides à travers la grille"
       },
       "collectionId": "Paris~2024"
     },
@@ -1772,6 +1807,105 @@ window.MANIFEST = {
       "collectionId": "Moon~2025"
     },
     {
+      "filename": "Eiffel_Tower_at_night-Tour_Eiffel_dans_la_nuit.jpg",
+      "src": "assets/collections/Paris~2024/Eiffel_Tower/Eiffel_Tower_at_night-Tour_Eiffel_dans_la_nuit.jpg",
+      "label": {
+        "en": "Eiffel Tower at night",
+        "fr": "Tour Eiffel dans la nuit"
+      },
+      "collectionId": "Paris~2024"
+    },
+    {
+      "filename": "Red_panda-Panda_roux.jpg",
+      "src": "assets/collections/Asson_Zoo-Zoo_d'Asson~2024/Animals-Animaux/Red_panda-Panda_roux.jpg",
+      "label": {
+        "en": "Red panda",
+        "fr": "Panda roux"
+      },
+      "collectionId": "Asson_Zoo-Zoo_d'Asson~2024"
+    },
+    {
+      "filename": "Sunset_3-Coucher_de_soleil_3.jpg",
+      "src": "assets/collections/Spain-Espagne~2025/Zarautz/Sunset_3-Coucher_de_soleil_3.jpg",
+      "label": {
+        "en": "Sunset 3",
+        "fr": "Coucher de soleil 3"
+      },
+      "collectionId": "Spain-Espagne~2025"
+    },
+    {
+      "filename": "Sky_in_fire-Ciel_en_feu.jpg",
+      "src": "assets/collections/Airplanes-Avions~2025/Sky_in_fire-Ciel_en_feu.jpg",
+      "label": {
+        "en": "Sky in fire",
+        "fr": "Ciel en feu"
+      },
+      "collectionId": "Airplanes-Avions~2025"
+    },
+    {
+      "filename": "Meal_at_the_harbor-Repas_sur_le_port.jpg",
+      "src": "assets/collections/Biarritz~2025/Walk_in_the_city-Balade_en_ville/Meal_at_the_harbor-Repas_sur_le_port.jpg",
+      "label": {
+        "en": "Meal at the harbor",
+        "fr": "Repas sur le port"
+      },
+      "collectionId": "Biarritz~2025"
+    },
+    {
+      "filename": "Parking_lot_covered_in_snow-Parking_enneigé.jpg",
+      "src": "assets/collections/Saint_Lary~2025/Parking_lot_covered_in_snow-Parking_enneigé.jpg",
+      "label": {
+        "en": "Parking lot covered in snow",
+        "fr": "Parking enneigé"
+      },
+      "collectionId": "Saint_Lary~2025"
+    },
+    {
+      "filename": "Stairs_of_Gaztelugatxe-Escaliers_de_Gaztelugatxe.jpg",
+      "src": "assets/collections/Spain-Espagne~2025/San Juan de Gaztelugatxe/Stairs_of_Gaztelugatxe-Escaliers_de_Gaztelugatxe.jpg",
+      "label": {
+        "en": "Stairs of Gaztelugatxe",
+        "fr": "Escaliers de Gaztelugatxe"
+      },
+      "collectionId": "Spain-Espagne~2025"
+    },
+    {
+      "filename": "Lezama_Leguizamon_House_at_Bilbao-Maison_Lezama_Leguizamon_à_Bilbao.jpg",
+      "src": "assets/collections/Spain-Espagne~2025/Bilbao/Lezama_Leguizamon_House_at_Bilbao-Maison_Lezama_Leguizamon_à_Bilbao.jpg",
+      "label": {
+        "en": "Lezama Leguizamon House at Bilbao",
+        "fr": "Maison Lezama Leguizamon à Bilbao"
+      },
+      "collectionId": "Spain-Espagne~2025"
+    },
+    {
+      "filename": "Fighting_for_her_dreams-Combat_pour_ses_rêves.jpg",
+      "src": "assets/collections/Demonstrations-Manifestations~2026/Fighting_for_her_dreams-Combat_pour_ses_rêves.jpg",
+      "label": {
+        "en": "Fighting for her dreams",
+        "fr": "Combat pour ses rêves"
+      },
+      "collectionId": "Demonstrations-Manifestations~2026"
+    },
+    {
+      "filename": "Dog_with_different_colored_eyes_2-Chien_aux_yeux_vairons_2.jpg",
+      "src": "assets/collections/Barèges~2025/Dog_with_different_colored_eyes_2-Chien_aux_yeux_vairons_2.jpg",
+      "label": {
+        "en": "Dog with different colored eyes 2",
+        "fr": "Chien aux yeux vairons 2"
+      },
+      "collectionId": "Barèges~2025"
+    },
+    {
+      "filename": "Snow_leopard-Panthère_des_neiges.jpg",
+      "src": "assets/collections/Asson_Zoo-Zoo_d'Asson~2024/Animals-Animaux/Snow_leopard-Panthère_des_neiges.jpg",
+      "label": {
+        "en": "Snow leopard",
+        "fr": "Panthère des neiges"
+      },
+      "collectionId": "Asson_Zoo-Zoo_d'Asson~2024"
+    },
+    {
       "filename": "Dog_with_different_colored_eyes-Chien_aux_yeux_vairons.jpg",
       "src": "assets/collections/Barèges~2025/Dog_with_different_colored_eyes-Chien_aux_yeux_vairons.jpg",
       "label": {
@@ -1781,22 +1915,148 @@ window.MANIFEST = {
       "collectionId": "Barèges~2025"
     },
     {
-      "filename": "Eiffel_Tower_through_the_leaves-Tour_Eiffel_à_travers_les_feuilles.jpg",
-      "src": "assets/collections/Paris~2024/Eiffel_Tower/Eiffel_Tower_through_the_leaves-Tour_Eiffel_à_travers_les_feuilles.jpg",
+      "filename": "Cloud_of_smoke-Nuage_de_fumée.jpg",
+      "src": "assets/collections/Demonstrations-Manifestations~2026/Cloud_of_smoke-Nuage_de_fumée.jpg",
       "label": {
-        "en": "Eiffel Tower through the leaves",
-        "fr": "Tour Eiffel à travers les feuilles"
+        "en": "Cloud of smoke",
+        "fr": "Nuage de fumée"
+      },
+      "collectionId": "Demonstrations-Manifestations~2026"
+    },
+    {
+      "filename": "Daubenton's_Bittern-Hocco_de_Daubenton.jpg",
+      "src": "assets/collections/Asson_Zoo-Zoo_d'Asson~2024/Animals-Animaux/Daubenton's_Bittern-Hocco_de_Daubenton.jpg",
+      "label": {
+        "en": "Daubenton's Bittern",
+        "fr": "Hocco de Daubenton"
+      },
+      "collectionId": "Asson_Zoo-Zoo_d'Asson~2024"
+    },
+    {
+      "filename": "Sheep_facing_me-Mouton_face_à_moi.jpg",
+      "src": "assets/collections/Barèges~2025/Sheep_facing_me-Mouton_face_à_moi.jpg",
+      "label": {
+        "en": "Sheep facing me",
+        "fr": "Mouton face à moi"
+      },
+      "collectionId": "Barèges~2025"
+    },
+    {
+      "filename": "Mountainous_landscape-Paysage_montagneux.jpg",
+      "src": "assets/collections/Saint_Lary~2025/Mountainous_landscape-Paysage_montagneux.jpg",
+      "label": {
+        "en": "Mountainous landscape",
+        "fr": "Paysage montagneux"
+      },
+      "collectionId": "Saint_Lary~2025"
+    },
+    {
+      "filename": "The_hope-L'espoir.jpg",
+      "src": "assets/collections/Demonstrations-Manifestations~2026/The_hope-L'espoir.jpg",
+      "label": {
+        "en": "The hope",
+        "fr": "L'espoir"
+      },
+      "collectionId": "Demonstrations-Manifestations~2026"
+    },
+    {
+      "filename": "Waxing_Gibbous-Lune_Gibbeuse.jpg",
+      "src": "assets/collections/Moon~2025/Waxing_Gibbous-Lune_Gibbeuse.jpg",
+      "label": {
+        "en": "Waxing Gibbous",
+        "fr": "Lune Gibbeuse"
+      },
+      "collectionId": "Moon~2025"
+    },
+    {
+      "filename": "Villa_Belza.jpg",
+      "src": "assets/collections/Biarritz~2025/Walk_in_the_city-Balade_en_ville/Villa_Belza.jpg",
+      "label": {
+        "en": "Villa Belza",
+        "fr": "Villa Belza"
+      },
+      "collectionId": "Biarritz~2025"
+    },
+    {
+      "filename": "Alone_facing_the_void-Seul_face_au_vide.jpg",
+      "src": "assets/collections/Saint_Lary~2025/Alone_facing_the_void-Seul_face_au_vide.jpg",
+      "label": {
+        "en": "Alone facing the void",
+        "fr": "Seul face au vide"
+      },
+      "collectionId": "Saint_Lary~2025"
+    },
+    {
+      "filename": "A320.jpg",
+      "src": "assets/collections/Airplanes-Avions~2025/A320.jpg",
+      "label": {
+        "en": "A320",
+        "fr": "A320"
+      },
+      "collectionId": "Airplanes-Avions~2025"
+    },
+    {
+      "filename": "Yellow_coral_Goby-Gobie_corail_jaune.jpg",
+      "src": "assets/collections/Biarritz~2025/Aquarium/Yellow_coral_Goby-Gobie_corail_jaune.jpg",
+      "label": {
+        "en": "Yellow coral Goby",
+        "fr": "Gobie corail jaune"
+      },
+      "collectionId": "Biarritz~2025"
+    },
+    {
+      "filename": "Jellyfish-Méduse.jpg",
+      "src": "assets/collections/Biarritz~2025/Aquarium/Jellyfish-Méduse.jpg",
+      "label": {
+        "en": "Jellyfish",
+        "fr": "Méduse"
+      },
+      "collectionId": "Biarritz~2025"
+    },
+    {
+      "filename": "Galeries Lafayettes.jpg",
+      "src": "assets/collections/Paris~2024/Galeries Lafayettes.jpg",
+      "label": {
+        "en": "Galeries Lafayettes",
+        "fr": "Galeries Lafayettes"
       },
       "collectionId": "Paris~2024"
     },
     {
-      "filename": "The_horizon_of_San_Sebastián-L'horizon_de_San_Sebastián.jpg",
-      "src": "assets/collections/Spain-Espagne~2025/San Sebastián/The_horizon_of_San_Sebastián-L'horizon_de_San_Sebastián.jpg",
+      "filename": "At_the_foot_of_the_Eiffel_Tower-Aux_pieds_de_la_Tour_Eiffel.jpg",
+      "src": "assets/collections/Paris~2024/Eiffel_Tower/At_the_foot_of_the_Eiffel_Tower-Aux_pieds_de_la_Tour_Eiffel.jpg",
       "label": {
-        "en": "The horizon of San Sebastián",
-        "fr": "L'horizon de San Sebastián"
+        "en": "At the foot of the Eiffel Tower",
+        "fr": "Aux pieds de la Tour Eiffel"
+      },
+      "collectionId": "Paris~2024"
+    },
+    {
+      "filename": "Mountainous_landscape_4-Paysage_montagneux_4.jpg",
+      "src": "assets/collections/Saint_Lary~2025/Mountainous_landscape_4-Paysage_montagneux_4.jpg",
+      "label": {
+        "en": "Mountainous landscape 4",
+        "fr": "Paysage montagneux 4"
+      },
+      "collectionId": "Saint_Lary~2025"
+    },
+    {
+      "filename": "Bird's_eye_view_of_the_beach-Vue_plongeante_sur_la_plage.jpg",
+      "src": "assets/collections/Spain-Espagne~2025/San Sebastián/Bird's_eye_view_of_the_beach-Vue_plongeante_sur_la_plage.jpg",
+      "label": {
+        "en": "Bird's eye view of the beach",
+        "fr": "Vue plongeante sur la plage"
       },
       "collectionId": "Spain-Espagne~2025"
+    },
+    {
+      "filename": "Sheeps-Moutons.jpg",
+      "src": "assets/collections/Barèges~2025/Sheeps-Moutons.jpg",
+      "label": {
+        "en": "Sheeps",
+        "fr": "Moutons"
+      },
+      "collectionId": "Barèges~2025"
     }
   ]
 };
