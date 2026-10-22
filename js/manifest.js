@@ -983,11 +983,785 @@ window.MANIFEST = {
       ]
     },
     {
-      "id": "Moon~2025",
-      "folderName": "Moon~2025",
+      "id": "Japan-Japon~2026",
+      "folderName": "Japan-Japon~2026",
+      "title": {
+        "en": "Japan",
+        "fr": "Japon"
+      },
+      "date": "2026",
+      "description": {
+        "en": "A one-month trip to Japan with friends.",
+        "fr": "Voyage d'un mois au Japon avec des amis."
+      },
+      "covers": [
+        "assets/collections/Japan-Japon~2026/June_20-20_Juin/A6703867.jpg",
+        "assets/collections/Japan-Japon~2026/June_20-20_Juin/A6703882.jpg",
+        "assets/collections/Japan-Japon~2026/June_21-21_Juin/A6703897.jpg",
+        "assets/collections/Japan-Japon~2026/June_21-21_Juin/A6703907.jpg",
+        "assets/collections/Japan-Japon~2026/June_21-21_Juin/A6703948.jpg",
+        "assets/collections/Japan-Japon~2026/June_21-21_Juin/A6704065.jpg",
+        "assets/collections/Japan-Japon~2026/June_21-21_Juin/A6704156.jpg",
+        "assets/collections/Japan-Japon~2026/June_21-21_Juin/A6704188.jpg",
+        "assets/collections/Japan-Japon~2026/June_21-21_Juin/A6704208.jpg",
+        "assets/collections/Japan-Japon~2026/June_21-21_Juin/A6704279.jpg",
+        "assets/collections/Japan-Japon~2026/June_22-22_Juin/A6704389.jpg",
+        "assets/collections/Japan-Japon~2026/June_22-22_Juin/A6704462.jpg",
+        "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6704684.jpg",
+        "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6704698.jpg",
+        "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6704774.jpg",
+        "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6704785.jpg",
+        "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6704816.jpg",
+        "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6704897.jpg",
+        "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6704907.jpg",
+        "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6704915.jpg",
+        "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705026.jpg",
+        "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705073.jpg",
+        "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705127.jpg",
+        "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705213.jpg",
+        "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705269.jpg",
+        "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705347.jpg",
+        "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705398.jpg",
+        "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705448.jpg",
+        "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705484.jpg",
+        "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705525.jpg",
+        "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705534.jpg",
+        "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705558.jpg",
+        "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705613.jpg",
+        "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705644.jpg",
+        "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705651.jpg",
+        "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705665.jpg",
+        "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705723.jpg",
+        "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705731.jpg",
+        "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705773.jpg",
+        "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705809.jpg",
+        "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705823.jpg",
+        "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705840.jpg"
+      ],
+      "photos": [],
+      "subcollections": [
+        {
+          "id": "June_20-20_Juin",
+          "title": {
+            "en": "June 20",
+            "fr": "20 Juin"
+          },
+          "description": null,
+          "photos": [
+            {
+              "filename": "A6703867.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_20-20_Juin/A6703867.jpg",
+              "label": {
+                "en": "A6703867",
+                "fr": "A6703867"
+              }
+            },
+            {
+              "filename": "A6703882.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_20-20_Juin/A6703882.jpg",
+              "label": {
+                "en": "A6703882",
+                "fr": "A6703882"
+              }
+            }
+          ]
+        },
+        {
+          "id": "June_21-21_Juin",
+          "title": {
+            "en": "June 21",
+            "fr": "21 Juin"
+          },
+          "description": null,
+          "photos": [
+            {
+              "filename": "A6703897.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_21-21_Juin/A6703897.jpg",
+              "label": {
+                "en": "A6703897",
+                "fr": "A6703897"
+              }
+            },
+            {
+              "filename": "A6703907.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_21-21_Juin/A6703907.jpg",
+              "label": {
+                "en": "A6703907",
+                "fr": "A6703907"
+              }
+            },
+            {
+              "filename": "A6703948.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_21-21_Juin/A6703948.jpg",
+              "label": {
+                "en": "A6703948",
+                "fr": "A6703948"
+              }
+            },
+            {
+              "filename": "A6704065.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_21-21_Juin/A6704065.jpg",
+              "label": {
+                "en": "A6704065",
+                "fr": "A6704065"
+              }
+            },
+            {
+              "filename": "A6704156.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_21-21_Juin/A6704156.jpg",
+              "label": {
+                "en": "A6704156",
+                "fr": "A6704156"
+              }
+            },
+            {
+              "filename": "A6704188.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_21-21_Juin/A6704188.jpg",
+              "label": {
+                "en": "A6704188",
+                "fr": "A6704188"
+              }
+            },
+            {
+              "filename": "A6704208.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_21-21_Juin/A6704208.jpg",
+              "label": {
+                "en": "A6704208",
+                "fr": "A6704208"
+              }
+            },
+            {
+              "filename": "A6704279.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_21-21_Juin/A6704279.jpg",
+              "label": {
+                "en": "A6704279",
+                "fr": "A6704279"
+              }
+            }
+          ]
+        },
+        {
+          "id": "June_22-22_Juin",
+          "title": {
+            "en": "June 22",
+            "fr": "22 Juin"
+          },
+          "description": null,
+          "photos": [
+            {
+              "filename": "A6704389.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_22-22_Juin/A6704389.jpg",
+              "label": {
+                "en": "A6704389",
+                "fr": "A6704389"
+              }
+            },
+            {
+              "filename": "A6704462.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_22-22_Juin/A6704462.jpg",
+              "label": {
+                "en": "A6704462",
+                "fr": "A6704462"
+              }
+            }
+          ]
+        },
+        {
+          "id": "June_23-23_Juin",
+          "title": {
+            "en": "June 23",
+            "fr": "23 Juin"
+          },
+          "description": null,
+          "photos": [
+            {
+              "filename": "A6704684.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6704684.jpg",
+              "label": {
+                "en": "A6704684",
+                "fr": "A6704684"
+              }
+            },
+            {
+              "filename": "A6704698.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6704698.jpg",
+              "label": {
+                "en": "A6704698",
+                "fr": "A6704698"
+              }
+            },
+            {
+              "filename": "A6704774.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6704774.jpg",
+              "label": {
+                "en": "A6704774",
+                "fr": "A6704774"
+              }
+            },
+            {
+              "filename": "A6704785.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6704785.jpg",
+              "label": {
+                "en": "A6704785",
+                "fr": "A6704785"
+              }
+            },
+            {
+              "filename": "A6704816.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6704816.jpg",
+              "label": {
+                "en": "A6704816",
+                "fr": "A6704816"
+              }
+            },
+            {
+              "filename": "A6704897.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6704897.jpg",
+              "label": {
+                "en": "A6704897",
+                "fr": "A6704897"
+              }
+            },
+            {
+              "filename": "A6704907.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6704907.jpg",
+              "label": {
+                "en": "A6704907",
+                "fr": "A6704907"
+              }
+            },
+            {
+              "filename": "A6704915.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6704915.jpg",
+              "label": {
+                "en": "A6704915",
+                "fr": "A6704915"
+              }
+            },
+            {
+              "filename": "A6705026.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705026.jpg",
+              "label": {
+                "en": "A6705026",
+                "fr": "A6705026"
+              }
+            },
+            {
+              "filename": "A6705073.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705073.jpg",
+              "label": {
+                "en": "A6705073",
+                "fr": "A6705073"
+              }
+            },
+            {
+              "filename": "A6705127.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705127.jpg",
+              "label": {
+                "en": "A6705127",
+                "fr": "A6705127"
+              }
+            },
+            {
+              "filename": "A6705213.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705213.jpg",
+              "label": {
+                "en": "A6705213",
+                "fr": "A6705213"
+              }
+            },
+            {
+              "filename": "A6705269.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705269.jpg",
+              "label": {
+                "en": "A6705269",
+                "fr": "A6705269"
+              }
+            },
+            {
+              "filename": "A6705347.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705347.jpg",
+              "label": {
+                "en": "A6705347",
+                "fr": "A6705347"
+              }
+            },
+            {
+              "filename": "A6705398.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705398.jpg",
+              "label": {
+                "en": "A6705398",
+                "fr": "A6705398"
+              }
+            },
+            {
+              "filename": "A6705448.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705448.jpg",
+              "label": {
+                "en": "A6705448",
+                "fr": "A6705448"
+              }
+            },
+            {
+              "filename": "A6705484.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705484.jpg",
+              "label": {
+                "en": "A6705484",
+                "fr": "A6705484"
+              }
+            },
+            {
+              "filename": "A6705525.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705525.jpg",
+              "label": {
+                "en": "A6705525",
+                "fr": "A6705525"
+              }
+            },
+            {
+              "filename": "A6705534.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705534.jpg",
+              "label": {
+                "en": "A6705534",
+                "fr": "A6705534"
+              }
+            },
+            {
+              "filename": "A6705558.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705558.jpg",
+              "label": {
+                "en": "A6705558",
+                "fr": "A6705558"
+              }
+            },
+            {
+              "filename": "A6705613.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705613.jpg",
+              "label": {
+                "en": "A6705613",
+                "fr": "A6705613"
+              }
+            },
+            {
+              "filename": "A6705644.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705644.jpg",
+              "label": {
+                "en": "A6705644",
+                "fr": "A6705644"
+              }
+            },
+            {
+              "filename": "A6705651.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705651.jpg",
+              "label": {
+                "en": "A6705651",
+                "fr": "A6705651"
+              }
+            },
+            {
+              "filename": "A6705665.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705665.jpg",
+              "label": {
+                "en": "A6705665",
+                "fr": "A6705665"
+              }
+            },
+            {
+              "filename": "A6705723.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705723.jpg",
+              "label": {
+                "en": "A6705723",
+                "fr": "A6705723"
+              }
+            },
+            {
+              "filename": "A6705731.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705731.jpg",
+              "label": {
+                "en": "A6705731",
+                "fr": "A6705731"
+              }
+            },
+            {
+              "filename": "A6705773.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705773.jpg",
+              "label": {
+                "en": "A6705773",
+                "fr": "A6705773"
+              }
+            },
+            {
+              "filename": "A6705809.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705809.jpg",
+              "label": {
+                "en": "A6705809",
+                "fr": "A6705809"
+              }
+            },
+            {
+              "filename": "A6705823.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705823.jpg",
+              "label": {
+                "en": "A6705823",
+                "fr": "A6705823"
+              }
+            },
+            {
+              "filename": "A6705840.jpg",
+              "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705840.jpg",
+              "label": {
+                "en": "A6705840",
+                "fr": "A6705840"
+              }
+            }
+          ]
+        }
+      ],
+      "allPhotos": [
+        {
+          "filename": "A6703867.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_20-20_Juin/A6703867.jpg",
+          "label": {
+            "en": "A6703867",
+            "fr": "A6703867"
+          }
+        },
+        {
+          "filename": "A6703882.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_20-20_Juin/A6703882.jpg",
+          "label": {
+            "en": "A6703882",
+            "fr": "A6703882"
+          }
+        },
+        {
+          "filename": "A6703897.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_21-21_Juin/A6703897.jpg",
+          "label": {
+            "en": "A6703897",
+            "fr": "A6703897"
+          }
+        },
+        {
+          "filename": "A6703907.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_21-21_Juin/A6703907.jpg",
+          "label": {
+            "en": "A6703907",
+            "fr": "A6703907"
+          }
+        },
+        {
+          "filename": "A6703948.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_21-21_Juin/A6703948.jpg",
+          "label": {
+            "en": "A6703948",
+            "fr": "A6703948"
+          }
+        },
+        {
+          "filename": "A6704065.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_21-21_Juin/A6704065.jpg",
+          "label": {
+            "en": "A6704065",
+            "fr": "A6704065"
+          }
+        },
+        {
+          "filename": "A6704156.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_21-21_Juin/A6704156.jpg",
+          "label": {
+            "en": "A6704156",
+            "fr": "A6704156"
+          }
+        },
+        {
+          "filename": "A6704188.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_21-21_Juin/A6704188.jpg",
+          "label": {
+            "en": "A6704188",
+            "fr": "A6704188"
+          }
+        },
+        {
+          "filename": "A6704208.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_21-21_Juin/A6704208.jpg",
+          "label": {
+            "en": "A6704208",
+            "fr": "A6704208"
+          }
+        },
+        {
+          "filename": "A6704279.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_21-21_Juin/A6704279.jpg",
+          "label": {
+            "en": "A6704279",
+            "fr": "A6704279"
+          }
+        },
+        {
+          "filename": "A6704389.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_22-22_Juin/A6704389.jpg",
+          "label": {
+            "en": "A6704389",
+            "fr": "A6704389"
+          }
+        },
+        {
+          "filename": "A6704462.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_22-22_Juin/A6704462.jpg",
+          "label": {
+            "en": "A6704462",
+            "fr": "A6704462"
+          }
+        },
+        {
+          "filename": "A6704684.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6704684.jpg",
+          "label": {
+            "en": "A6704684",
+            "fr": "A6704684"
+          }
+        },
+        {
+          "filename": "A6704698.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6704698.jpg",
+          "label": {
+            "en": "A6704698",
+            "fr": "A6704698"
+          }
+        },
+        {
+          "filename": "A6704774.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6704774.jpg",
+          "label": {
+            "en": "A6704774",
+            "fr": "A6704774"
+          }
+        },
+        {
+          "filename": "A6704785.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6704785.jpg",
+          "label": {
+            "en": "A6704785",
+            "fr": "A6704785"
+          }
+        },
+        {
+          "filename": "A6704816.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6704816.jpg",
+          "label": {
+            "en": "A6704816",
+            "fr": "A6704816"
+          }
+        },
+        {
+          "filename": "A6704897.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6704897.jpg",
+          "label": {
+            "en": "A6704897",
+            "fr": "A6704897"
+          }
+        },
+        {
+          "filename": "A6704907.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6704907.jpg",
+          "label": {
+            "en": "A6704907",
+            "fr": "A6704907"
+          }
+        },
+        {
+          "filename": "A6704915.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6704915.jpg",
+          "label": {
+            "en": "A6704915",
+            "fr": "A6704915"
+          }
+        },
+        {
+          "filename": "A6705026.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705026.jpg",
+          "label": {
+            "en": "A6705026",
+            "fr": "A6705026"
+          }
+        },
+        {
+          "filename": "A6705073.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705073.jpg",
+          "label": {
+            "en": "A6705073",
+            "fr": "A6705073"
+          }
+        },
+        {
+          "filename": "A6705127.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705127.jpg",
+          "label": {
+            "en": "A6705127",
+            "fr": "A6705127"
+          }
+        },
+        {
+          "filename": "A6705213.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705213.jpg",
+          "label": {
+            "en": "A6705213",
+            "fr": "A6705213"
+          }
+        },
+        {
+          "filename": "A6705269.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705269.jpg",
+          "label": {
+            "en": "A6705269",
+            "fr": "A6705269"
+          }
+        },
+        {
+          "filename": "A6705347.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705347.jpg",
+          "label": {
+            "en": "A6705347",
+            "fr": "A6705347"
+          }
+        },
+        {
+          "filename": "A6705398.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705398.jpg",
+          "label": {
+            "en": "A6705398",
+            "fr": "A6705398"
+          }
+        },
+        {
+          "filename": "A6705448.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705448.jpg",
+          "label": {
+            "en": "A6705448",
+            "fr": "A6705448"
+          }
+        },
+        {
+          "filename": "A6705484.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705484.jpg",
+          "label": {
+            "en": "A6705484",
+            "fr": "A6705484"
+          }
+        },
+        {
+          "filename": "A6705525.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705525.jpg",
+          "label": {
+            "en": "A6705525",
+            "fr": "A6705525"
+          }
+        },
+        {
+          "filename": "A6705534.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705534.jpg",
+          "label": {
+            "en": "A6705534",
+            "fr": "A6705534"
+          }
+        },
+        {
+          "filename": "A6705558.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705558.jpg",
+          "label": {
+            "en": "A6705558",
+            "fr": "A6705558"
+          }
+        },
+        {
+          "filename": "A6705613.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705613.jpg",
+          "label": {
+            "en": "A6705613",
+            "fr": "A6705613"
+          }
+        },
+        {
+          "filename": "A6705644.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705644.jpg",
+          "label": {
+            "en": "A6705644",
+            "fr": "A6705644"
+          }
+        },
+        {
+          "filename": "A6705651.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705651.jpg",
+          "label": {
+            "en": "A6705651",
+            "fr": "A6705651"
+          }
+        },
+        {
+          "filename": "A6705665.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705665.jpg",
+          "label": {
+            "en": "A6705665",
+            "fr": "A6705665"
+          }
+        },
+        {
+          "filename": "A6705723.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705723.jpg",
+          "label": {
+            "en": "A6705723",
+            "fr": "A6705723"
+          }
+        },
+        {
+          "filename": "A6705731.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705731.jpg",
+          "label": {
+            "en": "A6705731",
+            "fr": "A6705731"
+          }
+        },
+        {
+          "filename": "A6705773.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705773.jpg",
+          "label": {
+            "en": "A6705773",
+            "fr": "A6705773"
+          }
+        },
+        {
+          "filename": "A6705809.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705809.jpg",
+          "label": {
+            "en": "A6705809",
+            "fr": "A6705809"
+          }
+        },
+        {
+          "filename": "A6705823.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705823.jpg",
+          "label": {
+            "en": "A6705823",
+            "fr": "A6705823"
+          }
+        },
+        {
+          "filename": "A6705840.jpg",
+          "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705840.jpg",
+          "label": {
+            "en": "A6705840",
+            "fr": "A6705840"
+          }
+        }
+      ]
+    },
+    {
+      "id": "Moon-Lune~2025",
+      "folderName": "Moon-Lune~2025",
       "title": {
         "en": "Moon",
-        "fr": "Moon"
+        "fr": "Lune"
       },
       "date": "2025",
       "description": {
@@ -995,43 +1769,88 @@ window.MANIFEST = {
         "fr": "Quelques photos en vrac de la Lune."
       },
       "covers": [
-        "assets/collections/Moon~2025/Third_Quarter-Dernier_quartier.jpg",
-        "assets/collections/Moon~2025/Waxing_Gibbous-Lune_Gibbeuse.jpg"
+        "assets/collections/Moon-Lune~2025/Third_Quarter-Dernier_quartier.jpg",
+        "assets/collections/Moon-Lune~2025/Third_Quarter_2-Dernier_quartier_2.jpg",
+        "assets/collections/Moon-Lune~2025/Waxing_Gibbous-Lune_Gibbeuse.jpg",
+        "assets/collections/Moon-Lune~2025/Lunar_Eclipse_2026-Éclipse_Lunaire_2026/Blood_Moon-Lune_de_sang.jpg"
       ],
       "photos": [
         {
           "filename": "Third_Quarter-Dernier_quartier.jpg",
-          "src": "assets/collections/Moon~2025/Third_Quarter-Dernier_quartier.jpg",
+          "src": "assets/collections/Moon-Lune~2025/Third_Quarter-Dernier_quartier.jpg",
           "label": {
             "en": "Third Quarter",
             "fr": "Dernier quartier"
           }
         },
         {
+          "filename": "Third_Quarter_2-Dernier_quartier_2.jpg",
+          "src": "assets/collections/Moon-Lune~2025/Third_Quarter_2-Dernier_quartier_2.jpg",
+          "label": {
+            "en": "Third Quarter 2",
+            "fr": "Dernier quartier 2"
+          }
+        },
+        {
           "filename": "Waxing_Gibbous-Lune_Gibbeuse.jpg",
-          "src": "assets/collections/Moon~2025/Waxing_Gibbous-Lune_Gibbeuse.jpg",
+          "src": "assets/collections/Moon-Lune~2025/Waxing_Gibbous-Lune_Gibbeuse.jpg",
           "label": {
             "en": "Waxing Gibbous",
             "fr": "Lune Gibbeuse"
           }
         }
       ],
-      "subcollections": [],
+      "subcollections": [
+        {
+          "id": "Lunar_Eclipse_2026-Éclipse_Lunaire_2026",
+          "title": {
+            "en": "Lunar Eclipse 2026",
+            "fr": "Éclipse Lunaire 2026"
+          },
+          "description": null,
+          "photos": [
+            {
+              "filename": "Blood_Moon-Lune_de_sang.jpg",
+              "src": "assets/collections/Moon-Lune~2025/Lunar_Eclipse_2026-Éclipse_Lunaire_2026/Blood_Moon-Lune_de_sang.jpg",
+              "label": {
+                "en": "Blood Moon",
+                "fr": "Lune de sang"
+              }
+            }
+          ]
+        }
+      ],
       "allPhotos": [
         {
           "filename": "Third_Quarter-Dernier_quartier.jpg",
-          "src": "assets/collections/Moon~2025/Third_Quarter-Dernier_quartier.jpg",
+          "src": "assets/collections/Moon-Lune~2025/Third_Quarter-Dernier_quartier.jpg",
           "label": {
             "en": "Third Quarter",
             "fr": "Dernier quartier"
           }
         },
         {
+          "filename": "Third_Quarter_2-Dernier_quartier_2.jpg",
+          "src": "assets/collections/Moon-Lune~2025/Third_Quarter_2-Dernier_quartier_2.jpg",
+          "label": {
+            "en": "Third Quarter 2",
+            "fr": "Dernier quartier 2"
+          }
+        },
+        {
           "filename": "Waxing_Gibbous-Lune_Gibbeuse.jpg",
-          "src": "assets/collections/Moon~2025/Waxing_Gibbous-Lune_Gibbeuse.jpg",
+          "src": "assets/collections/Moon-Lune~2025/Waxing_Gibbous-Lune_Gibbeuse.jpg",
           "label": {
             "en": "Waxing Gibbous",
             "fr": "Lune Gibbeuse"
+          }
+        },
+        {
+          "filename": "Blood_Moon-Lune_de_sang.jpg",
+          "src": "assets/collections/Moon-Lune~2025/Lunar_Eclipse_2026-Éclipse_Lunaire_2026/Blood_Moon-Lune_de_sang.jpg",
+          "label": {
+            "en": "Blood Moon",
+            "fr": "Lune de sang"
           }
         }
       ]
@@ -1355,6 +2174,94 @@ window.MANIFEST = {
           "label": {
             "en": "Solitary fir tree",
             "fr": "Sapin solitaire"
+          }
+        }
+      ]
+    },
+    {
+      "id": "Solar_Eclipse-Éclipse_Solaire~2026",
+      "folderName": "Solar_Eclipse-Éclipse_Solaire~2026",
+      "title": {
+        "en": "Solar Eclipse",
+        "fr": "Éclipse Solaire"
+      },
+      "date": "2026",
+      "description": {
+        "en": "Solar eclipse on August 12, 2026. Photo taken from west of Valencia, Spain.",
+        "fr": "Éclipse solaire du 12 août 2026. Prise de vue depuis l'ouest de Valence en Espagne."
+      },
+      "covers": [
+        "assets/collections/Solar_Eclipse-Éclipse_Solaire~2026/All_phases-Toutes_les_phases.png",
+        "assets/collections/Solar_Eclipse-Éclipse_Solaire~2026/First_contact-Premier_contact.jpg",
+        "assets/collections/Solar_Eclipse-Éclipse_Solaire~2026/Last_contact-Dernier_contact.jpg",
+        "assets/collections/Solar_Eclipse-Éclipse_Solaire~2026/Maximum.jpg"
+      ],
+      "photos": [
+        {
+          "filename": "All_phases-Toutes_les_phases.png",
+          "src": "assets/collections/Solar_Eclipse-Éclipse_Solaire~2026/All_phases-Toutes_les_phases.png",
+          "label": {
+            "en": "All phases",
+            "fr": "Toutes les phases"
+          }
+        },
+        {
+          "filename": "First_contact-Premier_contact.jpg",
+          "src": "assets/collections/Solar_Eclipse-Éclipse_Solaire~2026/First_contact-Premier_contact.jpg",
+          "label": {
+            "en": "First contact",
+            "fr": "Premier contact"
+          }
+        },
+        {
+          "filename": "Last_contact-Dernier_contact.jpg",
+          "src": "assets/collections/Solar_Eclipse-Éclipse_Solaire~2026/Last_contact-Dernier_contact.jpg",
+          "label": {
+            "en": "Last contact",
+            "fr": "Dernier contact"
+          }
+        },
+        {
+          "filename": "Maximum.jpg",
+          "src": "assets/collections/Solar_Eclipse-Éclipse_Solaire~2026/Maximum.jpg",
+          "label": {
+            "en": "Maximum",
+            "fr": "Maximum"
+          }
+        }
+      ],
+      "subcollections": [],
+      "allPhotos": [
+        {
+          "filename": "All_phases-Toutes_les_phases.png",
+          "src": "assets/collections/Solar_Eclipse-Éclipse_Solaire~2026/All_phases-Toutes_les_phases.png",
+          "label": {
+            "en": "All phases",
+            "fr": "Toutes les phases"
+          }
+        },
+        {
+          "filename": "First_contact-Premier_contact.jpg",
+          "src": "assets/collections/Solar_Eclipse-Éclipse_Solaire~2026/First_contact-Premier_contact.jpg",
+          "label": {
+            "en": "First contact",
+            "fr": "Premier contact"
+          }
+        },
+        {
+          "filename": "Last_contact-Dernier_contact.jpg",
+          "src": "assets/collections/Solar_Eclipse-Éclipse_Solaire~2026/Last_contact-Dernier_contact.jpg",
+          "label": {
+            "en": "Last contact",
+            "fr": "Dernier contact"
+          }
+        },
+        {
+          "filename": "Maximum.jpg",
+          "src": "assets/collections/Solar_Eclipse-Éclipse_Solaire~2026/Maximum.jpg",
+          "label": {
+            "en": "Maximum",
+            "fr": "Maximum"
           }
         }
       ]
@@ -1758,53 +2665,107 @@ window.MANIFEST = {
           }
         }
       ]
+    },
+    {
+      "id": "Toulouse~2026",
+      "folderName": "Toulouse~2026",
+      "title": {
+        "en": "Toulouse",
+        "fr": "Toulouse"
+      },
+      "date": "2026",
+      "description": {
+        "en": "Random photos of Toulouse.",
+        "fr": "Photos en vrac de Toulouse."
+      },
+      "covers": [
+        "assets/collections/Toulouse~2026/Freestyler_1.jpg",
+        "assets/collections/Toulouse~2026/Freestyler_2.jpg"
+      ],
+      "photos": [
+        {
+          "filename": "Freestyler_1.jpg",
+          "src": "assets/collections/Toulouse~2026/Freestyler_1.jpg",
+          "label": {
+            "en": "Freestyler 1",
+            "fr": "Freestyler 1"
+          }
+        },
+        {
+          "filename": "Freestyler_2.jpg",
+          "src": "assets/collections/Toulouse~2026/Freestyler_2.jpg",
+          "label": {
+            "en": "Freestyler 2",
+            "fr": "Freestyler 2"
+          }
+        }
+      ],
+      "subcollections": [],
+      "allPhotos": [
+        {
+          "filename": "Freestyler_1.jpg",
+          "src": "assets/collections/Toulouse~2026/Freestyler_1.jpg",
+          "label": {
+            "en": "Freestyler 1",
+            "fr": "Freestyler 1"
+          }
+        },
+        {
+          "filename": "Freestyler_2.jpg",
+          "src": "assets/collections/Toulouse~2026/Freestyler_2.jpg",
+          "label": {
+            "en": "Freestyler 2",
+            "fr": "Freestyler 2"
+          }
+        }
+      ]
     }
   ],
   "homeFeed": [
     {
-      "filename": "White_cheeked_Gibon-Gibbon_à_favoris_blancs.jpg",
-      "src": "assets/collections/Asson_Zoo-Zoo_d'Asson~2024/Animals-Animaux/White_cheeked_Gibon-Gibbon_à_favoris_blancs.jpg",
+      "filename": "Waxing_Gibbous-Lune_Gibbeuse.jpg",
+      "src": "assets/collections/Moon-Lune~2025/Waxing_Gibbous-Lune_Gibbeuse.jpg",
       "label": {
-        "en": "White cheeked Gibon",
-        "fr": "Gibbon à favoris blancs"
+        "en": "Waxing Gibbous",
+        "fr": "Lune Gibbeuse"
       },
-      "collectionId": "Asson_Zoo-Zoo_d'Asson~2024"
+      "collectionId": "Moon-Lune~2025"
     },
     {
-      "filename": "Protest_demands-Revendications.jpg",
-      "src": "assets/collections/Demonstrations-Manifestations~2026/Protest_demands-Revendications.jpg",
+      "filename": "Blood_Moon-Lune_de_sang.jpg",
+      "src": "assets/collections/Moon-Lune~2025/Lunar_Eclipse_2026-Éclipse_Lunaire_2026/Blood_Moon-Lune_de_sang.jpg",
       "label": {
-        "en": "Protest demands",
-        "fr": "Revendications"
+        "en": "Blood Moon",
+        "fr": "Lune de sang"
+      },
+      "collectionId": "Moon-Lune~2025"
+    },
+    {
+      "filename": "Mountainous_landscape_2-Paysage_montagneux_2.jpg",
+      "src": "assets/collections/Saint_Lary~2025/Mountainous_landscape_2-Paysage_montagneux_2.jpg",
+      "label": {
+        "en": "Mountainous landscape 2",
+        "fr": "Paysage montagneux 2"
+      },
+      "collectionId": "Saint_Lary~2025"
+    },
+    {
+      "filename": "Clownfish-Poisson_clown.jpg",
+      "src": "assets/collections/Biarritz~2025/Aquarium/Clownfish-Poisson_clown.jpg",
+      "label": {
+        "en": "Clownfish",
+        "fr": "Poisson clown"
+      },
+      "collectionId": "Biarritz~2025"
+    },
+    {
+      "filename": "Light_in_the_darkness-Lumière_dans_l'obscurité.jpg",
+      "src": "assets/collections/Demonstrations-Manifestations~2026/Light_in_the_darkness-Lumière_dans_l'obscurité.jpg",
+      "label": {
+        "en": "Light in the darkness",
+        "fr": "Lumière dans l'obscurité"
       },
       "collectionId": "Demonstrations-Manifestations~2026"
-    },
-    {
-      "filename": "Beluga.jpg",
-      "src": "assets/collections/Airplanes-Avions~2025/Beluga.jpg",
-      "label": {
-        "en": "Beluga",
-        "fr": "Beluga"
-      },
-      "collectionId": "Airplanes-Avions~2025"
-    },
-    {
-      "filename": "Hôtel_des_Invalides_through_the_gate-Hôtel_des_Invalides_à_travers_la_grille.jpg",
-      "src": "assets/collections/Paris~2024/Hôtel_des_Invalides_through_the_gate-Hôtel_des_Invalides_à_travers_la_grille.jpg",
-      "label": {
-        "en": "Hôtel des Invalides through the gate",
-        "fr": "Hôtel des Invalides à travers la grille"
-      },
-      "collectionId": "Paris~2024"
-    },
-    {
-      "filename": "Third_Quarter-Dernier_quartier.jpg",
-      "src": "assets/collections/Moon~2025/Third_Quarter-Dernier_quartier.jpg",
-      "label": {
-        "en": "Third Quarter",
-        "fr": "Dernier quartier"
-      },
-      "collectionId": "Moon~2025"
     },
     {
       "filename": "Eiffel_Tower_at_night-Tour_Eiffel_dans_la_nuit.jpg",
@@ -1816,220 +2777,13 @@ window.MANIFEST = {
       "collectionId": "Paris~2024"
     },
     {
-      "filename": "Red_panda-Panda_roux.jpg",
-      "src": "assets/collections/Asson_Zoo-Zoo_d'Asson~2024/Animals-Animaux/Red_panda-Panda_roux.jpg",
+      "filename": "Third_Quarter-Dernier_quartier.jpg",
+      "src": "assets/collections/Moon-Lune~2025/Third_Quarter-Dernier_quartier.jpg",
       "label": {
-        "en": "Red panda",
-        "fr": "Panda roux"
+        "en": "Third Quarter",
+        "fr": "Dernier quartier"
       },
-      "collectionId": "Asson_Zoo-Zoo_d'Asson~2024"
-    },
-    {
-      "filename": "Sunset_3-Coucher_de_soleil_3.jpg",
-      "src": "assets/collections/Spain-Espagne~2025/Zarautz/Sunset_3-Coucher_de_soleil_3.jpg",
-      "label": {
-        "en": "Sunset 3",
-        "fr": "Coucher de soleil 3"
-      },
-      "collectionId": "Spain-Espagne~2025"
-    },
-    {
-      "filename": "Sky_in_fire-Ciel_en_feu.jpg",
-      "src": "assets/collections/Airplanes-Avions~2025/Sky_in_fire-Ciel_en_feu.jpg",
-      "label": {
-        "en": "Sky in fire",
-        "fr": "Ciel en feu"
-      },
-      "collectionId": "Airplanes-Avions~2025"
-    },
-    {
-      "filename": "Meal_at_the_harbor-Repas_sur_le_port.jpg",
-      "src": "assets/collections/Biarritz~2025/Walk_in_the_city-Balade_en_ville/Meal_at_the_harbor-Repas_sur_le_port.jpg",
-      "label": {
-        "en": "Meal at the harbor",
-        "fr": "Repas sur le port"
-      },
-      "collectionId": "Biarritz~2025"
-    },
-    {
-      "filename": "Parking_lot_covered_in_snow-Parking_enneigé.jpg",
-      "src": "assets/collections/Saint_Lary~2025/Parking_lot_covered_in_snow-Parking_enneigé.jpg",
-      "label": {
-        "en": "Parking lot covered in snow",
-        "fr": "Parking enneigé"
-      },
-      "collectionId": "Saint_Lary~2025"
-    },
-    {
-      "filename": "Stairs_of_Gaztelugatxe-Escaliers_de_Gaztelugatxe.jpg",
-      "src": "assets/collections/Spain-Espagne~2025/San Juan de Gaztelugatxe/Stairs_of_Gaztelugatxe-Escaliers_de_Gaztelugatxe.jpg",
-      "label": {
-        "en": "Stairs of Gaztelugatxe",
-        "fr": "Escaliers de Gaztelugatxe"
-      },
-      "collectionId": "Spain-Espagne~2025"
-    },
-    {
-      "filename": "Lezama_Leguizamon_House_at_Bilbao-Maison_Lezama_Leguizamon_à_Bilbao.jpg",
-      "src": "assets/collections/Spain-Espagne~2025/Bilbao/Lezama_Leguizamon_House_at_Bilbao-Maison_Lezama_Leguizamon_à_Bilbao.jpg",
-      "label": {
-        "en": "Lezama Leguizamon House at Bilbao",
-        "fr": "Maison Lezama Leguizamon à Bilbao"
-      },
-      "collectionId": "Spain-Espagne~2025"
-    },
-    {
-      "filename": "Fighting_for_her_dreams-Combat_pour_ses_rêves.jpg",
-      "src": "assets/collections/Demonstrations-Manifestations~2026/Fighting_for_her_dreams-Combat_pour_ses_rêves.jpg",
-      "label": {
-        "en": "Fighting for her dreams",
-        "fr": "Combat pour ses rêves"
-      },
-      "collectionId": "Demonstrations-Manifestations~2026"
-    },
-    {
-      "filename": "Dog_with_different_colored_eyes_2-Chien_aux_yeux_vairons_2.jpg",
-      "src": "assets/collections/Barèges~2025/Dog_with_different_colored_eyes_2-Chien_aux_yeux_vairons_2.jpg",
-      "label": {
-        "en": "Dog with different colored eyes 2",
-        "fr": "Chien aux yeux vairons 2"
-      },
-      "collectionId": "Barèges~2025"
-    },
-    {
-      "filename": "Snow_leopard-Panthère_des_neiges.jpg",
-      "src": "assets/collections/Asson_Zoo-Zoo_d'Asson~2024/Animals-Animaux/Snow_leopard-Panthère_des_neiges.jpg",
-      "label": {
-        "en": "Snow leopard",
-        "fr": "Panthère des neiges"
-      },
-      "collectionId": "Asson_Zoo-Zoo_d'Asson~2024"
-    },
-    {
-      "filename": "Dog_with_different_colored_eyes-Chien_aux_yeux_vairons.jpg",
-      "src": "assets/collections/Barèges~2025/Dog_with_different_colored_eyes-Chien_aux_yeux_vairons.jpg",
-      "label": {
-        "en": "Dog with different colored eyes",
-        "fr": "Chien aux yeux vairons"
-      },
-      "collectionId": "Barèges~2025"
-    },
-    {
-      "filename": "Cloud_of_smoke-Nuage_de_fumée.jpg",
-      "src": "assets/collections/Demonstrations-Manifestations~2026/Cloud_of_smoke-Nuage_de_fumée.jpg",
-      "label": {
-        "en": "Cloud of smoke",
-        "fr": "Nuage de fumée"
-      },
-      "collectionId": "Demonstrations-Manifestations~2026"
-    },
-    {
-      "filename": "Daubenton's_Bittern-Hocco_de_Daubenton.jpg",
-      "src": "assets/collections/Asson_Zoo-Zoo_d'Asson~2024/Animals-Animaux/Daubenton's_Bittern-Hocco_de_Daubenton.jpg",
-      "label": {
-        "en": "Daubenton's Bittern",
-        "fr": "Hocco de Daubenton"
-      },
-      "collectionId": "Asson_Zoo-Zoo_d'Asson~2024"
-    },
-    {
-      "filename": "Sheep_facing_me-Mouton_face_à_moi.jpg",
-      "src": "assets/collections/Barèges~2025/Sheep_facing_me-Mouton_face_à_moi.jpg",
-      "label": {
-        "en": "Sheep facing me",
-        "fr": "Mouton face à moi"
-      },
-      "collectionId": "Barèges~2025"
-    },
-    {
-      "filename": "Mountainous_landscape-Paysage_montagneux.jpg",
-      "src": "assets/collections/Saint_Lary~2025/Mountainous_landscape-Paysage_montagneux.jpg",
-      "label": {
-        "en": "Mountainous landscape",
-        "fr": "Paysage montagneux"
-      },
-      "collectionId": "Saint_Lary~2025"
-    },
-    {
-      "filename": "The_hope-L'espoir.jpg",
-      "src": "assets/collections/Demonstrations-Manifestations~2026/The_hope-L'espoir.jpg",
-      "label": {
-        "en": "The hope",
-        "fr": "L'espoir"
-      },
-      "collectionId": "Demonstrations-Manifestations~2026"
-    },
-    {
-      "filename": "Waxing_Gibbous-Lune_Gibbeuse.jpg",
-      "src": "assets/collections/Moon~2025/Waxing_Gibbous-Lune_Gibbeuse.jpg",
-      "label": {
-        "en": "Waxing Gibbous",
-        "fr": "Lune Gibbeuse"
-      },
-      "collectionId": "Moon~2025"
-    },
-    {
-      "filename": "Villa_Belza.jpg",
-      "src": "assets/collections/Biarritz~2025/Walk_in_the_city-Balade_en_ville/Villa_Belza.jpg",
-      "label": {
-        "en": "Villa Belza",
-        "fr": "Villa Belza"
-      },
-      "collectionId": "Biarritz~2025"
-    },
-    {
-      "filename": "Alone_facing_the_void-Seul_face_au_vide.jpg",
-      "src": "assets/collections/Saint_Lary~2025/Alone_facing_the_void-Seul_face_au_vide.jpg",
-      "label": {
-        "en": "Alone facing the void",
-        "fr": "Seul face au vide"
-      },
-      "collectionId": "Saint_Lary~2025"
-    },
-    {
-      "filename": "A320.jpg",
-      "src": "assets/collections/Airplanes-Avions~2025/A320.jpg",
-      "label": {
-        "en": "A320",
-        "fr": "A320"
-      },
-      "collectionId": "Airplanes-Avions~2025"
-    },
-    {
-      "filename": "Yellow_coral_Goby-Gobie_corail_jaune.jpg",
-      "src": "assets/collections/Biarritz~2025/Aquarium/Yellow_coral_Goby-Gobie_corail_jaune.jpg",
-      "label": {
-        "en": "Yellow coral Goby",
-        "fr": "Gobie corail jaune"
-      },
-      "collectionId": "Biarritz~2025"
-    },
-    {
-      "filename": "Jellyfish-Méduse.jpg",
-      "src": "assets/collections/Biarritz~2025/Aquarium/Jellyfish-Méduse.jpg",
-      "label": {
-        "en": "Jellyfish",
-        "fr": "Méduse"
-      },
-      "collectionId": "Biarritz~2025"
-    },
-    {
-      "filename": "Galeries Lafayettes.jpg",
-      "src": "assets/collections/Paris~2024/Galeries Lafayettes.jpg",
-      "label": {
-        "en": "Galeries Lafayettes",
-        "fr": "Galeries Lafayettes"
-      },
-      "collectionId": "Paris~2024"
-    },
-    {
-      "filename": "At_the_foot_of_the_Eiffel_Tower-Aux_pieds_de_la_Tour_Eiffel.jpg",
-      "src": "assets/collections/Paris~2024/Eiffel_Tower/At_the_foot_of_the_Eiffel_Tower-Aux_pieds_de_la_Tour_Eiffel.jpg",
-      "label": {
-        "en": "At the foot of the Eiffel Tower",
-        "fr": "Aux pieds de la Tour Eiffel"
-      },
-      "collectionId": "Paris~2024"
+      "collectionId": "Moon-Lune~2025"
     },
     {
       "filename": "Mountainous_landscape_4-Paysage_montagneux_4.jpg",
@@ -2041,13 +2795,220 @@ window.MANIFEST = {
       "collectionId": "Saint_Lary~2025"
     },
     {
-      "filename": "Bird's_eye_view_of_the_beach-Vue_plongeante_sur_la_plage.jpg",
-      "src": "assets/collections/Spain-Espagne~2025/San Sebastián/Bird's_eye_view_of_the_beach-Vue_plongeante_sur_la_plage.jpg",
+      "filename": "Cloud_of_smoke-Nuage_de_fumée.jpg",
+      "src": "assets/collections/Demonstrations-Manifestations~2026/Cloud_of_smoke-Nuage_de_fumée.jpg",
       "label": {
-        "en": "Bird's eye view of the beach",
-        "fr": "Vue plongeante sur la plage"
+        "en": "Cloud of smoke",
+        "fr": "Nuage de fumée"
+      },
+      "collectionId": "Demonstrations-Manifestations~2026"
+    },
+    {
+      "filename": "Third_Quarter_2-Dernier_quartier_2.jpg",
+      "src": "assets/collections/Moon-Lune~2025/Third_Quarter_2-Dernier_quartier_2.jpg",
+      "label": {
+        "en": "Third Quarter 2",
+        "fr": "Dernier quartier 2"
+      },
+      "collectionId": "Moon-Lune~2025"
+    },
+    {
+      "filename": "A6703882.jpg",
+      "src": "assets/collections/Japan-Japon~2026/June_20-20_Juin/A6703882.jpg",
+      "label": {
+        "en": "A6703882",
+        "fr": "A6703882"
+      },
+      "collectionId": "Japan-Japon~2026"
+    },
+    {
+      "filename": "Dog_with_different_colored_eyes-Chien_aux_yeux_vairons.jpg",
+      "src": "assets/collections/Barèges~2025/Dog_with_different_colored_eyes-Chien_aux_yeux_vairons.jpg",
+      "label": {
+        "en": "Dog with different colored eyes",
+        "fr": "Chien aux yeux vairons"
+      },
+      "collectionId": "Barèges~2025"
+    },
+    {
+      "filename": "Solitary_fir_tree-Sapin_solitaire.jpg",
+      "src": "assets/collections/Saint_Lary~2025/Solitary_fir_tree-Sapin_solitaire.jpg",
+      "label": {
+        "en": "Solitary fir tree",
+        "fr": "Sapin solitaire"
+      },
+      "collectionId": "Saint_Lary~2025"
+    },
+    {
+      "filename": "Two_friends_on_the_beach-Deux_amis_sur_la_plage.jpg",
+      "src": "assets/collections/Spain-Espagne~2025/Zarautz/Two_friends_on_the_beach-Deux_amis_sur_la_plage.jpg",
+      "label": {
+        "en": "Two friends on the beach",
+        "fr": "Deux amis sur la plage"
       },
       "collectionId": "Spain-Espagne~2025"
+    },
+    {
+      "filename": "Red_flowers-Fleurs_rouges.jpg",
+      "src": "assets/collections/Barèges~2025/Red_flowers-Fleurs_rouges.jpg",
+      "label": {
+        "en": "Red flowers",
+        "fr": "Fleurs rouges"
+      },
+      "collectionId": "Barèges~2025"
+    },
+    {
+      "filename": "At_the_foot_of_the_Eiffel_Tower-Aux_pieds_de_la_Tour_Eiffel.jpg",
+      "src": "assets/collections/Paris~2024/Eiffel_Tower/At_the_foot_of_the_Eiffel_Tower-Aux_pieds_de_la_Tour_Eiffel.jpg",
+      "label": {
+        "en": "At the foot of the Eiffel Tower",
+        "fr": "Aux pieds de la Tour Eiffel"
+      },
+      "collectionId": "Paris~2024"
+    },
+    {
+      "filename": "Eiffel_Tower_through_the_leaves-Tour_Eiffel_à_travers_les_feuilles.jpg",
+      "src": "assets/collections/Paris~2024/Eiffel_Tower/Eiffel_Tower_through_the_leaves-Tour_Eiffel_à_travers_les_feuilles.jpg",
+      "label": {
+        "en": "Eiffel Tower through the leaves",
+        "fr": "Tour Eiffel à travers les feuilles"
+      },
+      "collectionId": "Paris~2024"
+    },
+    {
+      "filename": "A_keffiyeh_around_the_neck-Un_keffieh_autour_du_cou.jpg",
+      "src": "assets/collections/Demonstrations-Manifestations~2026/A_keffiyeh_around_the_neck-Un_keffieh_autour_du_cou.jpg",
+      "label": {
+        "en": "A keffiyeh around the neck",
+        "fr": "Un keffieh autour du cou"
+      },
+      "collectionId": "Demonstrations-Manifestations~2026"
+    },
+    {
+      "filename": "Saint_Eugenie_Church-Église_Saint_Eugénie.jpg",
+      "src": "assets/collections/Biarritz~2025/Walk_in_the_city-Balade_en_ville/Saint_Eugenie_Church-Église_Saint_Eugénie.jpg",
+      "label": {
+        "en": "Saint Eugenie Church",
+        "fr": "Église Saint Eugénie"
+      },
+      "collectionId": "Biarritz~2025"
+    },
+    {
+      "filename": "New_Caledonia-Nouvelle_Calédonie.jpg",
+      "src": "assets/collections/Demonstrations-Manifestations~2026/New_Caledonia-Nouvelle_Calédonie.jpg",
+      "label": {
+        "en": "New Caledonia",
+        "fr": "Nouvelle Calédonie"
+      },
+      "collectionId": "Demonstrations-Manifestations~2026"
+    },
+    {
+      "filename": "All_phases-Toutes_les_phases.png",
+      "src": "assets/collections/Solar_Eclipse-Éclipse_Solaire~2026/All_phases-Toutes_les_phases.png",
+      "label": {
+        "en": "All phases",
+        "fr": "Toutes les phases"
+      },
+      "collectionId": "Solar_Eclipse-Éclipse_Solaire~2026"
+    },
+    {
+      "filename": "Alone_facing_the_void-Seul_face_au_vide.jpg",
+      "src": "assets/collections/Saint_Lary~2025/Alone_facing_the_void-Seul_face_au_vide.jpg",
+      "label": {
+        "en": "Alone facing the void",
+        "fr": "Seul face au vide"
+      },
+      "collectionId": "Saint_Lary~2025"
+    },
+    {
+      "filename": "Southern_Bucorve-Bucorve_du_sud.jpg",
+      "src": "assets/collections/Asson_Zoo-Zoo_d'Asson~2024/Animals-Animaux/Southern_Bucorve-Bucorve_du_sud.jpg",
+      "label": {
+        "en": "Southern Bucorve",
+        "fr": "Bucorve du sud"
+      },
+      "collectionId": "Asson_Zoo-Zoo_d'Asson~2024"
+    },
+    {
+      "filename": "Freestyler_2.jpg",
+      "src": "assets/collections/Toulouse~2026/Freestyler_2.jpg",
+      "label": {
+        "en": "Freestyler 2",
+        "fr": "Freestyler 2"
+      },
+      "collectionId": "Toulouse~2026"
+    },
+    {
+      "filename": "A6704188.jpg",
+      "src": "assets/collections/Japan-Japon~2026/June_21-21_Juin/A6704188.jpg",
+      "label": {
+        "en": "A6704188",
+        "fr": "A6704188"
+      },
+      "collectionId": "Japan-Japon~2026"
+    },
+    {
+      "filename": "Sunny_moment_in_life-Moment_de_vie_ensoleillé.jpg",
+      "src": "assets/collections/Barèges~2025/Sunny_moment_in_life-Moment_de_vie_ensoleillé.jpg",
+      "label": {
+        "en": "Sunny moment in life",
+        "fr": "Moment de vie ensoleillé"
+      },
+      "collectionId": "Barèges~2025"
+    },
+    {
+      "filename": "Sunset-Coucher_de_soleil.jpg",
+      "src": "assets/collections/Spain-Espagne~2025/Zarautz/Sunset-Coucher_de_soleil.jpg",
+      "label": {
+        "en": "Sunset",
+        "fr": "Coucher de soleil"
+      },
+      "collectionId": "Spain-Espagne~2025"
+    },
+    {
+      "filename": "People_walking_along_the_coast-Des_passants_sur_la_côté.jpg",
+      "src": "assets/collections/Spain-Espagne~2025/San Sebastián/People_walking_along_the_coast-Des_passants_sur_la_côté.jpg",
+      "label": {
+        "en": "People walking along the coast",
+        "fr": "Des passants sur la côté"
+      },
+      "collectionId": "Spain-Espagne~2025"
+    },
+    {
+      "filename": "Snow_leopard-Panthère_des_neiges.jpg",
+      "src": "assets/collections/Asson_Zoo-Zoo_d'Asson~2024/Animals-Animaux/Snow_leopard-Panthère_des_neiges.jpg",
+      "label": {
+        "en": "Snow leopard",
+        "fr": "Panthère des neiges"
+      },
+      "collectionId": "Asson_Zoo-Zoo_d'Asson~2024"
+    },
+    {
+      "filename": "Serval.jpg",
+      "src": "assets/collections/Asson_Zoo-Zoo_d'Asson~2024/Animals-Animaux/Serval.jpg",
+      "label": {
+        "en": "Serval",
+        "fr": "Serval"
+      },
+      "collectionId": "Asson_Zoo-Zoo_d'Asson~2024"
+    },
+    {
+      "filename": "White_cheeked_Gibon-Gibbon_à_favoris_blancs.jpg",
+      "src": "assets/collections/Asson_Zoo-Zoo_d'Asson~2024/Animals-Animaux/White_cheeked_Gibon-Gibbon_à_favoris_blancs.jpg",
+      "label": {
+        "en": "White cheeked Gibon",
+        "fr": "Gibbon à favoris blancs"
+      },
+      "collectionId": "Asson_Zoo-Zoo_d'Asson~2024"
+    },
+    {
+      "filename": "Hôtel_des_Invalides_through_the_gate-Hôtel_des_Invalides_à_travers_la_grille.jpg",
+      "src": "assets/collections/Paris~2024/Hôtel_des_Invalides_through_the_gate-Hôtel_des_Invalides_à_travers_la_grille.jpg",
+      "label": {
+        "en": "Hôtel des Invalides through the gate",
+        "fr": "Hôtel des Invalides à travers la grille"
+      },
+      "collectionId": "Paris~2024"
     },
     {
       "filename": "Sheeps-Moutons.jpg",
@@ -2057,6 +3018,114 @@ window.MANIFEST = {
         "fr": "Moutons"
       },
       "collectionId": "Barèges~2025"
+    },
+    {
+      "filename": "Last_contact-Dernier_contact.jpg",
+      "src": "assets/collections/Solar_Eclipse-Éclipse_Solaire~2026/Last_contact-Dernier_contact.jpg",
+      "label": {
+        "en": "Last contact",
+        "fr": "Dernier contact"
+      },
+      "collectionId": "Solar_Eclipse-Éclipse_Solaire~2026"
+    },
+    {
+      "filename": "The_marine_arc-L'arche_marine.jpg",
+      "src": "assets/collections/Biarritz~2025/Walk_in_the_city-Balade_en_ville/The_marine_arc-L'arche_marine.jpg",
+      "label": {
+        "en": "The marine arc",
+        "fr": "L'arche marine"
+      },
+      "collectionId": "Biarritz~2025"
+    },
+    {
+      "filename": "Maximum.jpg",
+      "src": "assets/collections/Solar_Eclipse-Éclipse_Solaire~2026/Maximum.jpg",
+      "label": {
+        "en": "Maximum",
+        "fr": "Maximum"
+      },
+      "collectionId": "Solar_Eclipse-Éclipse_Solaire~2026"
+    },
+    {
+      "filename": "Freestyler_1.jpg",
+      "src": "assets/collections/Toulouse~2026/Freestyler_1.jpg",
+      "label": {
+        "en": "Freestyler 1",
+        "fr": "Freestyler 1"
+      },
+      "collectionId": "Toulouse~2026"
+    },
+    {
+      "filename": "Beluga.jpg",
+      "src": "assets/collections/Airplanes-Avions~2025/Beluga.jpg",
+      "label": {
+        "en": "Beluga",
+        "fr": "Beluga"
+      },
+      "collectionId": "Airplanes-Avions~2025"
+    },
+    {
+      "filename": "A6703907.jpg",
+      "src": "assets/collections/Japan-Japon~2026/June_21-21_Juin/A6703907.jpg",
+      "label": {
+        "en": "A6703907",
+        "fr": "A6703907"
+      },
+      "collectionId": "Japan-Japon~2026"
+    },
+    {
+      "filename": "Sky_in_fire-Ciel_en_feu.jpg",
+      "src": "assets/collections/Airplanes-Avions~2025/Sky_in_fire-Ciel_en_feu.jpg",
+      "label": {
+        "en": "Sky in fire",
+        "fr": "Ciel en feu"
+      },
+      "collectionId": "Airplanes-Avions~2025"
+    },
+    {
+      "filename": "A6704279.jpg",
+      "src": "assets/collections/Japan-Japon~2026/June_21-21_Juin/A6704279.jpg",
+      "label": {
+        "en": "A6704279",
+        "fr": "A6704279"
+      },
+      "collectionId": "Japan-Japon~2026"
+    },
+    {
+      "filename": "Meal_at_the_harbor-Repas_sur_le_port.jpg",
+      "src": "assets/collections/Biarritz~2025/Walk_in_the_city-Balade_en_ville/Meal_at_the_harbor-Repas_sur_le_port.jpg",
+      "label": {
+        "en": "Meal at the harbor",
+        "fr": "Repas sur le port"
+      },
+      "collectionId": "Biarritz~2025"
+    },
+    {
+      "filename": "Horizon_over_Bentalde-Horizon_sur_Bentalde.jpg",
+      "src": "assets/collections/Spain-Espagne~2025/San Juan de Gaztelugatxe/Horizon_over_Bentalde-Horizon_sur_Bentalde.jpg",
+      "label": {
+        "en": "Horizon over Bentalde",
+        "fr": "Horizon sur Bentalde"
+      },
+      "collectionId": "Spain-Espagne~2025"
+    },
+    {
+      "filename": "A320.jpg",
+      "src": "assets/collections/Airplanes-Avions~2025/A320.jpg",
+      "label": {
+        "en": "A320",
+        "fr": "A320"
+      },
+      "collectionId": "Airplanes-Avions~2025"
+    },
+    {
+      "filename": "First_contact-Premier_contact.jpg",
+      "src": "assets/collections/Solar_Eclipse-Éclipse_Solaire~2026/First_contact-Premier_contact.jpg",
+      "label": {
+        "en": "First contact",
+        "fr": "Premier contact"
+      },
+      "collectionId": "Solar_Eclipse-Éclipse_Solaire~2026"
     }
   ]
 };
