@@ -2264,6 +2264,128 @@ window.MANIFEST = {
       ]
     },
     {
+      "id": "Sers~2026",
+      "folderName": "Sers~2026",
+      "title": {
+        "en": "Sers",
+        "fr": "Sers"
+      },
+      "date": "2026",
+      "description": {
+        "en": "Some landscape photos from Sers.",
+        "fr": "Quelques photos de paysages à Sers."
+      },
+      "covers": [
+        "assets/collections/Sers~2026/Landscape_1-Paysage_1.jpg",
+        "assets/collections/Sers~2026/Landscape_2-Paysage_2.jpg",
+        "assets/collections/Sers~2026/Landscape_3-Paysage_3.jpg",
+        "assets/collections/Sers~2026/Landscape_4-Paysage_4.jpg",
+        "assets/collections/Sers~2026/Landscape_5-Paysage_5.jpg",
+        "assets/collections/Sers~2026/Landscape_6-Paysage_6.jpg"
+      ],
+      "photos": [
+        {
+          "filename": "Landscape_1-Paysage_1.jpg",
+          "src": "assets/collections/Sers~2026/Landscape_1-Paysage_1.jpg",
+          "label": {
+            "en": "Landscape 1",
+            "fr": "Paysage 1"
+          }
+        },
+        {
+          "filename": "Landscape_2-Paysage_2.jpg",
+          "src": "assets/collections/Sers~2026/Landscape_2-Paysage_2.jpg",
+          "label": {
+            "en": "Landscape 2",
+            "fr": "Paysage 2"
+          }
+        },
+        {
+          "filename": "Landscape_3-Paysage_3.jpg",
+          "src": "assets/collections/Sers~2026/Landscape_3-Paysage_3.jpg",
+          "label": {
+            "en": "Landscape 3",
+            "fr": "Paysage 3"
+          }
+        },
+        {
+          "filename": "Landscape_4-Paysage_4.jpg",
+          "src": "assets/collections/Sers~2026/Landscape_4-Paysage_4.jpg",
+          "label": {
+            "en": "Landscape 4",
+            "fr": "Paysage 4"
+          }
+        },
+        {
+          "filename": "Landscape_5-Paysage_5.jpg",
+          "src": "assets/collections/Sers~2026/Landscape_5-Paysage_5.jpg",
+          "label": {
+            "en": "Landscape 5",
+            "fr": "Paysage 5"
+          }
+        },
+        {
+          "filename": "Landscape_6-Paysage_6.jpg",
+          "src": "assets/collections/Sers~2026/Landscape_6-Paysage_6.jpg",
+          "label": {
+            "en": "Landscape 6",
+            "fr": "Paysage 6"
+          }
+        }
+      ],
+      "subcollections": [],
+      "allPhotos": [
+        {
+          "filename": "Landscape_1-Paysage_1.jpg",
+          "src": "assets/collections/Sers~2026/Landscape_1-Paysage_1.jpg",
+          "label": {
+            "en": "Landscape 1",
+            "fr": "Paysage 1"
+          }
+        },
+        {
+          "filename": "Landscape_2-Paysage_2.jpg",
+          "src": "assets/collections/Sers~2026/Landscape_2-Paysage_2.jpg",
+          "label": {
+            "en": "Landscape 2",
+            "fr": "Paysage 2"
+          }
+        },
+        {
+          "filename": "Landscape_3-Paysage_3.jpg",
+          "src": "assets/collections/Sers~2026/Landscape_3-Paysage_3.jpg",
+          "label": {
+            "en": "Landscape 3",
+            "fr": "Paysage 3"
+          }
+        },
+        {
+          "filename": "Landscape_4-Paysage_4.jpg",
+          "src": "assets/collections/Sers~2026/Landscape_4-Paysage_4.jpg",
+          "label": {
+            "en": "Landscape 4",
+            "fr": "Paysage 4"
+          }
+        },
+        {
+          "filename": "Landscape_5-Paysage_5.jpg",
+          "src": "assets/collections/Sers~2026/Landscape_5-Paysage_5.jpg",
+          "label": {
+            "en": "Landscape 5",
+            "fr": "Paysage 5"
+          }
+        },
+        {
+          "filename": "Landscape_6-Paysage_6.jpg",
+          "src": "assets/collections/Sers~2026/Landscape_6-Paysage_6.jpg",
+          "label": {
+            "en": "Landscape 6",
+            "fr": "Paysage 6"
+          }
+        }
+      ]
+    },
+    {
       "id": "Solar_Eclipse-Éclipse_Solaire~2026",
       "folderName": "Solar_Eclipse-Éclipse_Solaire~2026",
       "title": {
@@ -2808,317 +2930,20 @@ window.MANIFEST = {
   ],
   "homeFeed": [
     {
-      "filename": "Sky_in_fire-Ciel_en_feu.jpg",
-      "src": "assets/collections/Airplanes-Avions~2025/Sky_in_fire-Ciel_en_feu.jpg",
+      "filename": "Yellowbanded_Sweetlips-Gaterin_à_bandes_jaunes.jpg",
+      "src": "assets/collections/Biarritz~2025/Aquarium/Yellowbanded_Sweetlips-Gaterin_à_bandes_jaunes.jpg",
       "label": {
-        "en": "Sky in fire",
-        "fr": "Ciel en feu"
-      },
-      "collectionId": "Airplanes-Avions~2025"
-    },
-    {
-      "filename": "Saint_Eugenie_Church-Église_Saint_Eugénie.jpg",
-      "src": "assets/collections/Biarritz~2025/Walk_in_the_city-Balade_en_ville/Saint_Eugenie_Church-Église_Saint_Eugénie.jpg",
-      "label": {
-        "en": "Saint Eugenie Church",
-        "fr": "Église Saint Eugénie"
+        "en": "Yellowbanded Sweetlips",
+        "fr": "Gaterin à bandes jaunes"
       },
       "collectionId": "Biarritz~2025"
     },
     {
-      "filename": "Freestyler_1.jpg",
-      "src": "assets/collections/Toulouse~2026/Freestyler_1.jpg",
+      "filename": "Sunny_moment_in_life-Moment_de_vie_ensoleillé.jpg",
+      "src": "assets/collections/Barèges~2025/Sunny_moment_in_life-Moment_de_vie_ensoleillé.jpg",
       "label": {
-        "en": "Freestyler 1",
-        "fr": "Freestyler 1"
-      },
-      "collectionId": "Toulouse~2026"
-    },
-    {
-      "filename": "Third_Quarter-Dernier_quartier.jpg",
-      "src": "assets/collections/Moon-Lune~2025/Third_Quarter-Dernier_quartier.jpg",
-      "label": {
-        "en": "Third Quarter",
-        "fr": "Dernier quartier"
-      },
-      "collectionId": "Moon-Lune~2025"
-    },
-    {
-      "filename": "Mountainous_landscape_3-Paysage_montagneux_3.jpg",
-      "src": "assets/collections/Saint_Lary~2025/Mountainous_landscape_3-Paysage_montagneux_3.jpg",
-      "label": {
-        "en": "Mountainous landscape 3",
-        "fr": "Paysage montagneux 3"
-      },
-      "collectionId": "Saint_Lary~2025"
-    },
-    {
-      "filename": "Sheeps-Moutons.jpg",
-      "src": "assets/collections/Barèges~2025/Sheeps-Moutons.jpg",
-      "label": {
-        "en": "Sheeps",
-        "fr": "Moutons"
-      },
-      "collectionId": "Barèges~2025"
-    },
-    {
-      "filename": "Meal_at_the_harbor-Repas_sur_le_port.jpg",
-      "src": "assets/collections/Biarritz~2025/Walk_in_the_city-Balade_en_ville/Meal_at_the_harbor-Repas_sur_le_port.jpg",
-      "label": {
-        "en": "Meal at the harbor",
-        "fr": "Repas sur le port"
-      },
-      "collectionId": "Biarritz~2025"
-    },
-    {
-      "filename": "New_Caledonia-Nouvelle_Calédonie.jpg",
-      "src": "assets/collections/Demonstrations-Manifestations~2026/New_Caledonia-Nouvelle_Calédonie.jpg",
-      "label": {
-        "en": "New Caledonia",
-        "fr": "Nouvelle Calédonie"
-      },
-      "collectionId": "Demonstrations-Manifestations~2026"
-    },
-    {
-      "filename": "Sunset_2-Coucher_de_soleil_2.jpg",
-      "src": "assets/collections/Spain-Espagne~2025/Zarautz/Sunset_2-Coucher_de_soleil_2.jpg",
-      "label": {
-        "en": "Sunset 2",
-        "fr": "Coucher de soleil 2"
-      },
-      "collectionId": "Spain-Espagne~2025"
-    },
-    {
-      "filename": "Red_panda-Panda_roux.jpg",
-      "src": "assets/collections/Asson_Zoo-Zoo_d'Asson~2024/Animals-Animaux/Red_panda-Panda_roux.jpg",
-      "label": {
-        "en": "Red panda",
-        "fr": "Panda roux"
-      },
-      "collectionId": "Asson_Zoo-Zoo_d'Asson~2024"
-    },
-    {
-      "filename": "Yellow_coral_Goby-Gobie_corail_jaune.jpg",
-      "src": "assets/collections/Biarritz~2025/Aquarium/Yellow_coral_Goby-Gobie_corail_jaune.jpg",
-      "label": {
-        "en": "Yellow coral Goby",
-        "fr": "Gobie corail jaune"
-      },
-      "collectionId": "Biarritz~2025"
-    },
-    {
-      "filename": "Freestyler_2.jpg",
-      "src": "assets/collections/Toulouse~2026/Freestyler_2.jpg",
-      "label": {
-        "en": "Freestyler 2",
-        "fr": "Freestyler 2"
-      },
-      "collectionId": "Toulouse~2026"
-    },
-    {
-      "filename": "Parking_lot_covered_in_snow-Parking_enneigé.jpg",
-      "src": "assets/collections/Saint_Lary~2025/Parking_lot_covered_in_snow-Parking_enneigé.jpg",
-      "label": {
-        "en": "Parking lot covered in snow",
-        "fr": "Parking enneigé"
-      },
-      "collectionId": "Saint_Lary~2025"
-    },
-    {
-      "filename": "Ocelot.jpg",
-      "src": "assets/collections/Asson_Zoo-Zoo_d'Asson~2024/Animals-Animaux/Ocelot.jpg",
-      "label": {
-        "en": "Ocelot",
-        "fr": "Ocelot"
-      },
-      "collectionId": "Asson_Zoo-Zoo_d'Asson~2024"
-    },
-    {
-      "filename": "First_contact-Premier_contact.jpg",
-      "src": "assets/collections/Solar_Eclipse-Éclipse_Solaire~2026/First_contact-Premier_contact.jpg",
-      "label": {
-        "en": "First contact",
-        "fr": "Premier contact"
-      },
-      "collectionId": "Solar_Eclipse-Éclipse_Solaire~2026"
-    },
-    {
-      "filename": "Eiffel_Tower_through_the_leaves-Tour_Eiffel_à_travers_les_feuilles.jpg",
-      "src": "assets/collections/Paris~2024/Eiffel_Tower/Eiffel_Tower_through_the_leaves-Tour_Eiffel_à_travers_les_feuilles.jpg",
-      "label": {
-        "en": "Eiffel Tower through the leaves",
-        "fr": "Tour Eiffel à travers les feuilles"
-      },
-      "collectionId": "Paris~2024"
-    },
-    {
-      "filename": "A6704095.jpg",
-      "src": "assets/collections/Japan-Japon~2026/June_21-21_Juin/A6704095.jpg",
-      "label": {
-        "en": "A6704095",
-        "fr": "A6704095"
-      },
-      "collectionId": "Japan-Japon~2026"
-    },
-    {
-      "filename": "White_cheeked_Gibon-Gibbon_à_favoris_blancs.jpg",
-      "src": "assets/collections/Asson_Zoo-Zoo_d'Asson~2024/Animals-Animaux/White_cheeked_Gibon-Gibbon_à_favoris_blancs.jpg",
-      "label": {
-        "en": "White cheeked Gibon",
-        "fr": "Gibbon à favoris blancs"
-      },
-      "collectionId": "Asson_Zoo-Zoo_d'Asson~2024"
-    },
-    {
-      "filename": "Waxing_Gibbous-Lune_Gibbeuse.jpg",
-      "src": "assets/collections/Moon-Lune~2025/Waxing_Gibbous-Lune_Gibbeuse.jpg",
-      "label": {
-        "en": "Waxing Gibbous",
-        "fr": "Lune Gibbeuse"
-      },
-      "collectionId": "Moon-Lune~2025"
-    },
-    {
-      "filename": "Last_contact-Dernier_contact.jpg",
-      "src": "assets/collections/Solar_Eclipse-Éclipse_Solaire~2026/Last_contact-Dernier_contact.jpg",
-      "label": {
-        "en": "Last contact",
-        "fr": "Dernier contact"
-      },
-      "collectionId": "Solar_Eclipse-Éclipse_Solaire~2026"
-    },
-    {
-      "filename": "A_flower_contemplating_the_sunset-Une_fleur_contemplant_le_coucher_de_soleil.jpg",
-      "src": "assets/collections/Spain-Espagne~2025/San Juan de Gaztelugatxe/A_flower_contemplating_the_sunset-Une_fleur_contemplant_le_coucher_de_soleil.jpg",
-      "label": {
-        "en": "A flower contemplating the sunset",
-        "fr": "Une fleur contemplant le coucher de soleil"
-      },
-      "collectionId": "Spain-Espagne~2025"
-    },
-    {
-      "filename": "Villa_le_Goéland.jpg",
-      "src": "assets/collections/Biarritz~2025/Walk_in_the_city-Balade_en_ville/Villa_le_Goéland.jpg",
-      "label": {
-        "en": "Villa le Goéland",
-        "fr": "Villa le Goéland"
-      },
-      "collectionId": "Biarritz~2025"
-    },
-    {
-      "filename": "Mountainous_landscape_2-Paysage_montagneux_2.jpg",
-      "src": "assets/collections/Saint_Lary~2025/Mountainous_landscape_2-Paysage_montagneux_2.jpg",
-      "label": {
-        "en": "Mountainous landscape 2",
-        "fr": "Paysage montagneux 2"
-      },
-      "collectionId": "Saint_Lary~2025"
-    },
-    {
-      "filename": "Maximum.jpg",
-      "src": "assets/collections/Solar_Eclipse-Éclipse_Solaire~2026/Maximum.jpg",
-      "label": {
-        "en": "Maximum",
-        "fr": "Maximum"
-      },
-      "collectionId": "Solar_Eclipse-Éclipse_Solaire~2026"
-    },
-    {
-      "filename": "Third_Quarter_2-Dernier_quartier_2.jpg",
-      "src": "assets/collections/Moon-Lune~2025/Third_Quarter_2-Dernier_quartier_2.jpg",
-      "label": {
-        "en": "Third Quarter 2",
-        "fr": "Dernier quartier 2"
-      },
-      "collectionId": "Moon-Lune~2025"
-    },
-    {
-      "filename": "Beluga.jpg",
-      "src": "assets/collections/Airplanes-Avions~2025/Beluga.jpg",
-      "label": {
-        "en": "Beluga",
-        "fr": "Beluga"
-      },
-      "collectionId": "Airplanes-Avions~2025"
-    },
-    {
-      "filename": "Horizon_over_Bentalde-Horizon_sur_Bentalde.jpg",
-      "src": "assets/collections/Spain-Espagne~2025/San Juan de Gaztelugatxe/Horizon_over_Bentalde-Horizon_sur_Bentalde.jpg",
-      "label": {
-        "en": "Horizon over Bentalde",
-        "fr": "Horizon sur Bentalde"
-      },
-      "collectionId": "Spain-Espagne~2025"
-    },
-    {
-      "filename": "A320.jpg",
-      "src": "assets/collections/Airplanes-Avions~2025/A320.jpg",
-      "label": {
-        "en": "A320",
-        "fr": "A320"
-      },
-      "collectionId": "Airplanes-Avions~2025"
-    },
-    {
-      "filename": "Hôtel_des_Invalides_through_the_gate-Hôtel_des_Invalides_à_travers_la_grille.jpg",
-      "src": "assets/collections/Paris~2024/Hôtel_des_Invalides_through_the_gate-Hôtel_des_Invalides_à_travers_la_grille.jpg",
-      "label": {
-        "en": "Hôtel des Invalides through the gate",
-        "fr": "Hôtel des Invalides à travers la grille"
-      },
-      "collectionId": "Paris~2024"
-    },
-    {
-      "filename": "Red_flowers-Fleurs_rouges.jpg",
-      "src": "assets/collections/Barèges~2025/Red_flowers-Fleurs_rouges.jpg",
-      "label": {
-        "en": "Red flowers",
-        "fr": "Fleurs rouges"
-      },
-      "collectionId": "Barèges~2025"
-    },
-    {
-      "filename": "Serval.jpg",
-      "src": "assets/collections/Asson_Zoo-Zoo_d'Asson~2024/Animals-Animaux/Serval.jpg",
-      "label": {
-        "en": "Serval",
-        "fr": "Serval"
-      },
-      "collectionId": "Asson_Zoo-Zoo_d'Asson~2024"
-    },
-    {
-      "filename": "At_the_foot_of_the_Eiffel_Tower-Aux_pieds_de_la_Tour_Eiffel.jpg",
-      "src": "assets/collections/Paris~2024/Eiffel_Tower/At_the_foot_of_the_Eiffel_Tower-Aux_pieds_de_la_Tour_Eiffel.jpg",
-      "label": {
-        "en": "At the foot of the Eiffel Tower",
-        "fr": "Aux pieds de la Tour Eiffel"
-      },
-      "collectionId": "Paris~2024"
-    },
-    {
-      "filename": "A6705558.jpg",
-      "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705558.jpg",
-      "label": {
-        "en": "A6705558",
-        "fr": "A6705558"
-      },
-      "collectionId": "Japan-Japon~2026"
-    },
-    {
-      "filename": "A6704915.jpg",
-      "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6704915.jpg",
-      "label": {
-        "en": "A6704915",
-        "fr": "A6704915"
-      },
-      "collectionId": "Japan-Japon~2026"
-    },
-    {
-      "filename": "Dog_with_different_colored_eyes_2-Chien_aux_yeux_vairons_2.jpg",
-      "src": "assets/collections/Barèges~2025/Dog_with_different_colored_eyes_2-Chien_aux_yeux_vairons_2.jpg",
-      "label": {
-        "en": "Dog with different colored eyes 2",
-        "fr": "Chien aux yeux vairons 2"
+        "en": "Sunny moment in life",
+        "fr": "Moment de vie ensoleillé"
       },
       "collectionId": "Barèges~2025"
     },
@@ -3132,13 +2957,49 @@ window.MANIFEST = {
       "collectionId": "Paris~2024"
     },
     {
-      "filename": "A6705731.jpg",
-      "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705731.jpg",
+      "filename": "Freestyler_1.jpg",
+      "src": "assets/collections/Toulouse~2026/Freestyler_1.jpg",
       "label": {
-        "en": "A6705731",
-        "fr": "A6705731"
+        "en": "Freestyler 1",
+        "fr": "Freestyler 1"
       },
-      "collectionId": "Japan-Japon~2026"
+      "collectionId": "Toulouse~2026"
+    },
+    {
+      "filename": "Villa_le_Goéland.jpg",
+      "src": "assets/collections/Biarritz~2025/Walk_in_the_city-Balade_en_ville/Villa_le_Goéland.jpg",
+      "label": {
+        "en": "Villa le Goéland",
+        "fr": "Villa le Goéland"
+      },
+      "collectionId": "Biarritz~2025"
+    },
+    {
+      "filename": "Sheep_facing_me-Mouton_face_à_moi.jpg",
+      "src": "assets/collections/Barèges~2025/Sheep_facing_me-Mouton_face_à_moi.jpg",
+      "label": {
+        "en": "Sheep facing me",
+        "fr": "Mouton face à moi"
+      },
+      "collectionId": "Barèges~2025"
+    },
+    {
+      "filename": "A320.jpg",
+      "src": "assets/collections/Airplanes-Avions~2025/A320.jpg",
+      "label": {
+        "en": "A320",
+        "fr": "A320"
+      },
+      "collectionId": "Airplanes-Avions~2025"
+    },
+    {
+      "filename": "A_flower_contemplating_the_sunset-Une_fleur_contemplant_le_coucher_de_soleil.jpg",
+      "src": "assets/collections/Spain-Espagne~2025/San Juan de Gaztelugatxe/A_flower_contemplating_the_sunset-Une_fleur_contemplant_le_coucher_de_soleil.jpg",
+      "label": {
+        "en": "A flower contemplating the sunset",
+        "fr": "Une fleur contemplant le coucher de soleil"
+      },
+      "collectionId": "Spain-Espagne~2025"
     },
     {
       "filename": "All_phases-Toutes_les_phases.png",
@@ -3150,11 +3011,155 @@ window.MANIFEST = {
       "collectionId": "Solar_Eclipse-Éclipse_Solaire~2026"
     },
     {
-      "filename": "Mountainous_landscape_5-Paysage_montagneux_5.jpg",
-      "src": "assets/collections/Saint_Lary~2025/Mountainous_landscape_5-Paysage_montagneux_5.jpg",
+      "filename": "Car_frozen_in_snow-Voiture-figée-dans-la-neige.jpg",
+      "src": "assets/collections/Saint_Lary~2025/Car_frozen_in_snow-Voiture-figée-dans-la-neige.jpg",
       "label": {
-        "en": "Mountainous landscape 5",
-        "fr": "Paysage montagneux 5"
+        "en": "Car frozen in snow",
+        "fr": "Voiture-figée-dans-la-neige"
+      },
+      "collectionId": "Saint_Lary~2025"
+    },
+    {
+      "filename": "Sky_in_fire-Ciel_en_feu.jpg",
+      "src": "assets/collections/Airplanes-Avions~2025/Sky_in_fire-Ciel_en_feu.jpg",
+      "label": {
+        "en": "Sky in fire",
+        "fr": "Ciel en feu"
+      },
+      "collectionId": "Airplanes-Avions~2025"
+    },
+    {
+      "filename": "At_the_foot_of_the_Eiffel_Tower-Aux_pieds_de_la_Tour_Eiffel.jpg",
+      "src": "assets/collections/Paris~2024/Eiffel_Tower/At_the_foot_of_the_Eiffel_Tower-Aux_pieds_de_la_Tour_Eiffel.jpg",
+      "label": {
+        "en": "At the foot of the Eiffel Tower",
+        "fr": "Aux pieds de la Tour Eiffel"
+      },
+      "collectionId": "Paris~2024"
+    },
+    {
+      "filename": "Freestyler_2.jpg",
+      "src": "assets/collections/Toulouse~2026/Freestyler_2.jpg",
+      "label": {
+        "en": "Freestyler 2",
+        "fr": "Freestyler 2"
+      },
+      "collectionId": "Toulouse~2026"
+    },
+    {
+      "filename": "Hôtel_des_Invalides_through_the_gate-Hôtel_des_Invalides_à_travers_la_grille.jpg",
+      "src": "assets/collections/Paris~2024/Hôtel_des_Invalides_through_the_gate-Hôtel_des_Invalides_à_travers_la_grille.jpg",
+      "label": {
+        "en": "Hôtel des Invalides through the gate",
+        "fr": "Hôtel des Invalides à travers la grille"
+      },
+      "collectionId": "Paris~2024"
+    },
+    {
+      "filename": "Blood_Moon-Lune_de_sang.jpg",
+      "src": "assets/collections/Moon-Lune~2025/Lunar_Eclipse_2026-Éclipse_Lunaire_2026/Blood_Moon-Lune_de_sang.jpg",
+      "label": {
+        "en": "Blood Moon",
+        "fr": "Lune de sang"
+      },
+      "collectionId": "Moon-Lune~2025"
+    },
+    {
+      "filename": "Light_in_the_darkness-Lumière_dans_l'obscurité.jpg",
+      "src": "assets/collections/Demonstrations-Manifestations~2026/Light_in_the_darkness-Lumière_dans_l'obscurité.jpg",
+      "label": {
+        "en": "Light in the darkness",
+        "fr": "Lumière dans l'obscurité"
+      },
+      "collectionId": "Demonstrations-Manifestations~2026"
+    },
+    {
+      "filename": "Beluga.jpg",
+      "src": "assets/collections/Airplanes-Avions~2025/Beluga.jpg",
+      "label": {
+        "en": "Beluga",
+        "fr": "Beluga"
+      },
+      "collectionId": "Airplanes-Avions~2025"
+    },
+    {
+      "filename": "Serval.jpg",
+      "src": "assets/collections/Asson_Zoo-Zoo_d'Asson~2024/Animals-Animaux/Serval.jpg",
+      "label": {
+        "en": "Serval",
+        "fr": "Serval"
+      },
+      "collectionId": "Asson_Zoo-Zoo_d'Asson~2024"
+    },
+    {
+      "filename": "Street_lamp-Lampadaire.jpg",
+      "src": "assets/collections/Spain-Espagne~2025/Zarautz/Street_lamp-Lampadaire.jpg",
+      "label": {
+        "en": "Street lamp",
+        "fr": "Lampadaire"
+      },
+      "collectionId": "Spain-Espagne~2025"
+    },
+    {
+      "filename": "Mountainous_landscape_3-Paysage_montagneux_3.jpg",
+      "src": "assets/collections/Saint_Lary~2025/Mountainous_landscape_3-Paysage_montagneux_3.jpg",
+      "label": {
+        "en": "Mountainous landscape 3",
+        "fr": "Paysage montagneux 3"
+      },
+      "collectionId": "Saint_Lary~2025"
+    },
+    {
+      "filename": "Landscape_5-Paysage_5.jpg",
+      "src": "assets/collections/Sers~2026/Landscape_5-Paysage_5.jpg",
+      "label": {
+        "en": "Landscape 5",
+        "fr": "Paysage 5"
+      },
+      "collectionId": "Sers~2026"
+    },
+    {
+      "filename": "Eiffel_Tower_at_night-Tour_Eiffel_dans_la_nuit.jpg",
+      "src": "assets/collections/Paris~2024/Eiffel_Tower/Eiffel_Tower_at_night-Tour_Eiffel_dans_la_nuit.jpg",
+      "label": {
+        "en": "Eiffel Tower at night",
+        "fr": "Tour Eiffel dans la nuit"
+      },
+      "collectionId": "Paris~2024"
+    },
+    {
+      "filename": "Landscape_6-Paysage_6.jpg",
+      "src": "assets/collections/Sers~2026/Landscape_6-Paysage_6.jpg",
+      "label": {
+        "en": "Landscape 6",
+        "fr": "Paysage 6"
+      },
+      "collectionId": "Sers~2026"
+    },
+    {
+      "filename": "San_Sebastián_between_two_walls-San_Sebastián_entre_deux_murs.jpg",
+      "src": "assets/collections/Spain-Espagne~2025/San Sebastián/San_Sebastián_between_two_walls-San_Sebastián_entre_deux_murs.jpg",
+      "label": {
+        "en": "San Sebastián between two walls",
+        "fr": "San Sebastián entre deux murs"
+      },
+      "collectionId": "Spain-Espagne~2025"
+    },
+    {
+      "filename": "Landscape_3-Paysage_3.jpg",
+      "src": "assets/collections/Sers~2026/Landscape_3-Paysage_3.jpg",
+      "label": {
+        "en": "Landscape 3",
+        "fr": "Paysage 3"
+      },
+      "collectionId": "Sers~2026"
+    },
+    {
+      "filename": "Solitary_fir_tree-Sapin_solitaire.jpg",
+      "src": "assets/collections/Saint_Lary~2025/Solitary_fir_tree-Sapin_solitaire.jpg",
+      "label": {
+        "en": "Solitary fir tree",
+        "fr": "Sapin solitaire"
       },
       "collectionId": "Saint_Lary~2025"
     },
@@ -3168,22 +3173,58 @@ window.MANIFEST = {
       "collectionId": "Spain-Espagne~2025"
     },
     {
-      "filename": "Blood_Moon-Lune_de_sang.jpg",
-      "src": "assets/collections/Moon-Lune~2025/Lunar_Eclipse_2026-Éclipse_Lunaire_2026/Blood_Moon-Lune_de_sang.jpg",
+      "filename": "New_Caledonia-Nouvelle_Calédonie.jpg",
+      "src": "assets/collections/Demonstrations-Manifestations~2026/New_Caledonia-Nouvelle_Calédonie.jpg",
       "label": {
-        "en": "Blood Moon",
-        "fr": "Lune de sang"
+        "en": "New Caledonia",
+        "fr": "Nouvelle Calédonie"
+      },
+      "collectionId": "Demonstrations-Manifestations~2026"
+    },
+    {
+      "filename": "Waxing_Gibbous-Lune_Gibbeuse.jpg",
+      "src": "assets/collections/Moon-Lune~2025/Waxing_Gibbous-Lune_Gibbeuse.jpg",
+      "label": {
+        "en": "Waxing Gibbous",
+        "fr": "Lune Gibbeuse"
       },
       "collectionId": "Moon-Lune~2025"
     },
     {
-      "filename": "Fighting_for_her_dreams-Combat_pour_ses_rêves.jpg",
-      "src": "assets/collections/Demonstrations-Manifestations~2026/Fighting_for_her_dreams-Combat_pour_ses_rêves.jpg",
+      "filename": "A_keffiyeh_around_the_neck-Un_keffieh_autour_du_cou.jpg",
+      "src": "assets/collections/Demonstrations-Manifestations~2026/A_keffiyeh_around_the_neck-Un_keffieh_autour_du_cou.jpg",
       "label": {
-        "en": "Fighting for her dreams",
-        "fr": "Combat pour ses rêves"
+        "en": "A keffiyeh around the neck",
+        "fr": "Un keffieh autour du cou"
       },
       "collectionId": "Demonstrations-Manifestations~2026"
+    },
+    {
+      "filename": "A6704156.jpg",
+      "src": "assets/collections/Japan-Japon~2026/June_21-21_Juin/A6704156.jpg",
+      "label": {
+        "en": "A6704156",
+        "fr": "A6704156"
+      },
+      "collectionId": "Japan-Japon~2026"
+    },
+    {
+      "filename": "Yellow_coral_Goby-Gobie_corail_jaune.jpg",
+      "src": "assets/collections/Biarritz~2025/Aquarium/Yellow_coral_Goby-Gobie_corail_jaune.jpg",
+      "label": {
+        "en": "Yellow coral Goby",
+        "fr": "Gobie corail jaune"
+      },
+      "collectionId": "Biarritz~2025"
+    },
+    {
+      "filename": "A6704279.jpg",
+      "src": "assets/collections/Japan-Japon~2026/June_21-21_Juin/A6704279.jpg",
+      "label": {
+        "en": "A6704279",
+        "fr": "A6704279"
+      },
+      "collectionId": "Japan-Japon~2026"
     },
     {
       "filename": "CRS.jpg",
@@ -3195,22 +3236,139 @@ window.MANIFEST = {
       "collectionId": "Demonstrations-Manifestations~2026"
     },
     {
-      "filename": "Protest_demands-Revendications.jpg",
-      "src": "assets/collections/Demonstrations-Manifestations~2026/Protest_demands-Revendications.jpg",
+      "filename": "Mountainous_landscape_2-Paysage_montagneux_2.jpg",
+      "src": "assets/collections/Saint_Lary~2025/Mountainous_landscape_2-Paysage_montagneux_2.jpg",
       "label": {
-        "en": "Protest demands",
-        "fr": "Revendications"
+        "en": "Mountainous landscape 2",
+        "fr": "Paysage montagneux 2"
       },
-      "collectionId": "Demonstrations-Manifestations~2026"
+      "collectionId": "Saint_Lary~2025"
     },
     {
-      "filename": "Sheep-Mouton.jpg",
-      "src": "assets/collections/Barèges~2025/Sheep-Mouton.jpg",
+      "filename": "Ocelot.jpg",
+      "src": "assets/collections/Asson_Zoo-Zoo_d'Asson~2024/Animals-Animaux/Ocelot.jpg",
       "label": {
-        "en": "Sheep",
-        "fr": "Mouton"
+        "en": "Ocelot",
+        "fr": "Ocelot"
+      },
+      "collectionId": "Asson_Zoo-Zoo_d'Asson~2024"
+    },
+    {
+      "filename": "Snow_leopard-Panthère_des_neiges.jpg",
+      "src": "assets/collections/Asson_Zoo-Zoo_d'Asson~2024/Animals-Animaux/Snow_leopard-Panthère_des_neiges.jpg",
+      "label": {
+        "en": "Snow leopard",
+        "fr": "Panthère des neiges"
+      },
+      "collectionId": "Asson_Zoo-Zoo_d'Asson~2024"
+    },
+    {
+      "filename": "First_contact-Premier_contact.jpg",
+      "src": "assets/collections/Solar_Eclipse-Éclipse_Solaire~2026/First_contact-Premier_contact.jpg",
+      "label": {
+        "en": "First contact",
+        "fr": "Premier contact"
+      },
+      "collectionId": "Solar_Eclipse-Éclipse_Solaire~2026"
+    },
+    {
+      "filename": "Third_Quarter_2-Dernier_quartier_2.jpg",
+      "src": "assets/collections/Moon-Lune~2025/Third_Quarter_2-Dernier_quartier_2.jpg",
+      "label": {
+        "en": "Third Quarter 2",
+        "fr": "Dernier quartier 2"
+      },
+      "collectionId": "Moon-Lune~2025"
+    },
+    {
+      "filename": "Longhorn_Cowfish-Poisson_vache_à_longues_cornes.jpg",
+      "src": "assets/collections/Biarritz~2025/Aquarium/Longhorn_Cowfish-Poisson_vache_à_longues_cornes.jpg",
+      "label": {
+        "en": "Longhorn Cowfish",
+        "fr": "Poisson vache à longues cornes"
+      },
+      "collectionId": "Biarritz~2025"
+    },
+    {
+      "filename": "Red_flowers-Fleurs_rouges.jpg",
+      "src": "assets/collections/Barèges~2025/Red_flowers-Fleurs_rouges.jpg",
+      "label": {
+        "en": "Red flowers",
+        "fr": "Fleurs rouges"
       },
       "collectionId": "Barèges~2025"
+    },
+    {
+      "filename": "Dog_with_different_colored_eyes_2-Chien_aux_yeux_vairons_2.jpg",
+      "src": "assets/collections/Barèges~2025/Dog_with_different_colored_eyes_2-Chien_aux_yeux_vairons_2.jpg",
+      "label": {
+        "en": "Dog with different colored eyes 2",
+        "fr": "Chien aux yeux vairons 2"
+      },
+      "collectionId": "Barèges~2025"
+    },
+    {
+      "filename": "Flamingo-Flamand_rose.jpg",
+      "src": "assets/collections/Asson_Zoo-Zoo_d'Asson~2024/Animals-Animaux/Flamingo-Flamand_rose.jpg",
+      "label": {
+        "en": "Flamingo",
+        "fr": "Flamand rose"
+      },
+      "collectionId": "Asson_Zoo-Zoo_d'Asson~2024"
+    },
+    {
+      "filename": "Landscape_4-Paysage_4.jpg",
+      "src": "assets/collections/Sers~2026/Landscape_4-Paysage_4.jpg",
+      "label": {
+        "en": "Landscape 4",
+        "fr": "Paysage 4"
+      },
+      "collectionId": "Sers~2026"
+    },
+    {
+      "filename": "Maximum.jpg",
+      "src": "assets/collections/Solar_Eclipse-Éclipse_Solaire~2026/Maximum.jpg",
+      "label": {
+        "en": "Maximum",
+        "fr": "Maximum"
+      },
+      "collectionId": "Solar_Eclipse-Éclipse_Solaire~2026"
+    },
+    {
+      "filename": "A6705213.jpg",
+      "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705213.jpg",
+      "label": {
+        "en": "A6705213",
+        "fr": "A6705213"
+      },
+      "collectionId": "Japan-Japon~2026"
+    },
+    {
+      "filename": "A6705127.jpg",
+      "src": "assets/collections/Japan-Japon~2026/June_23-23_Juin/A6705127.jpg",
+      "label": {
+        "en": "A6705127",
+        "fr": "A6705127"
+      },
+      "collectionId": "Japan-Japon~2026"
+    },
+    {
+      "filename": "Last_contact-Dernier_contact.jpg",
+      "src": "assets/collections/Solar_Eclipse-Éclipse_Solaire~2026/Last_contact-Dernier_contact.jpg",
+      "label": {
+        "en": "Last contact",
+        "fr": "Dernier contact"
+      },
+      "collectionId": "Solar_Eclipse-Éclipse_Solaire~2026"
+    },
+    {
+      "filename": "Third_Quarter-Dernier_quartier.jpg",
+      "src": "assets/collections/Moon-Lune~2025/Third_Quarter-Dernier_quartier.jpg",
+      "label": {
+        "en": "Third Quarter",
+        "fr": "Dernier quartier"
+      },
+      "collectionId": "Moon-Lune~2025"
     }
   ]
 };
